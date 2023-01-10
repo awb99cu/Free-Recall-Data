@@ -1,0 +1,1646 @@
+trial_type,trial_index,time_elapsed,rt,stimulus,key_press,test_part,targ_cond,correct_response,word,responses
+pavlovia,0,605,,"",,,,,,
+external-html,1,45514,44793.18500007503,"",,,,,,
+html-keyboard-response,2,52210,6685.464999987744,"Welcome to the experiment. Press any key to begin.",13,,,,,
+html-keyboard-response,3,69080,16867.90499999188,"<p>You will see a list of words and colored squares in the following task.<p><p>Press the spacebar whenever you see a red square.<p><p>Do not press a key if the square is green<p><p>Press the spacebar to continue.</p>",32,,,,,
+html-keyboard-response,4,120769,51182.15000000782,"<p>Please try to remember as many of the words as you can, and try to think about the meaning of each word as it appears.<p><p>After the detection and encoding task you will be asked to solve some math problems for 24 seconds.<p> Please solve as many problems as you can in the time given. <p>",32,,,,,
+html-keyboard-response,5,132652,11380.160000058822,"After solving the math problems, you will be asked to type in as many words <p>from the previous list as you can remember for 75 seconds.<p> If you finish recalling before the 75 seconds are up,<p> just sit tight and try to think of any more words you could have missed. <p><p>We will begin with a brief practice session<p>Press the spacebar to begin the practice.</p>",32,,,,,
+html-keyboard-response,6,135169,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,7,135672,null,"HAPPY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,D,none,,
+html-keyboard-response,8,137184,null,"HAPPY",null,word,,,HAPPY,
+html-keyboard-response,9,137192,null,"COLD<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,T,SPACEBAR,,
+html-keyboard-response,10,138697,null,"COLD",null,word,,,COLD,
+html-keyboard-response,11,138703,null,"HEAVY<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,T,SPACEBAR,,
+html-keyboard-response,12,140220,null,"HEAVY",null,word,,,HEAVY,
+html-keyboard-response,13,140734,null,"FUNNY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,D,none,,
+html-keyboard-response,14,142237,null,"FUNNY",null,word,,,FUNNY,
+html-keyboard-response,15,142245,null,"SCARY<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,T,SPACEBAR,,
+html-keyboard-response,16,143748,null,"SCARY",null,word,,,SCARY,
+html-keyboard-response,17,143755,null,"PEACEFUL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,T,SPACEBAR,,
+html-keyboard-response,18,145260,null,"PEACEFUL",null,word,,,PEACEFUL,
+html-keyboard-response,19,145777,null,"LITTLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,D,none,,
+html-keyboard-response,20,147289,null,"LITTLE",null,word,,,LITTLE,
+html-keyboard-response,21,147802,null,"TIRED<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,D,none,,
+html-keyboard-response,22,149314,null,"TIRED",null,word,,,TIRED,
+html-keyboard-response,23,149828,null,"ENTERTAINING<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,D,none,,
+html-keyboard-response,24,151339,null,"ENTERTAINING",null,word,,,ENTERTAINING,
+html-keyboard-response,25,151345,null,"GRATEFUL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,T,SPACEBAR,,
+html-keyboard-response,26,152849,null,"GRATEFUL",null,word,,,GRATEFUL,
+html-keyboard-response,27,153365,null,"LOUD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,D,none,,
+html-keyboard-response,28,154882,null,"LOUD",null,word,,,LOUD,
+html-keyboard-response,29,154891,null,"SMART<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,T,SPACEBAR,,
+html-keyboard-response,30,156394,null,"SMART",null,word,,,SMART,
+html-keyboard-response,31,156401,null,"SMOOTH<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,T,SPACEBAR,,
+html-keyboard-response,32,157910,null,"SMOOTH",null,word,,,SMOOTH,
+html-keyboard-response,33,158411,null,"DISHONEST<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,D,none,,
+html-keyboard-response,34,159923,null,"DISHONEST",null,word,,,DISHONEST,
+html-keyboard-response,35,159931,null,"WEALTHY<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,T,SPACEBAR,,
+html-keyboard-response,36,161447,null,"WEALTHY",null,word,,,WEALTHY,
+html-keyboard-response,37,161963,null,"BEAUTIFUL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,D,none,,
+html-keyboard-response,38,163479,null,"BEAUTIFUL",null,word,,,BEAUTIFUL,
+html-keyboard-response,39,163991,null,"DREARY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,D,none,,
+html-keyboard-response,40,165506,null,"DREARY",null,word,,,DREARY,
+html-keyboard-response,41,166009,null,"PLAYFUL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,D,none,,
+html-keyboard-response,42,167517,null,"PLAYFUL",null,word,,,PLAYFUL,
+survey-text,43,172172,4647.3100000293925,"",,,,,,{"Q0":"2"}
+survey-text,44,177042,4863.795000012033,"",,,,,,{"Q0":"2"}
+survey-text,45,178681,1635.4900000151247,"",,,,,,{"Q0":"6"}
+survey-text,46,180689,2003.595000016503,"",,,,,,{"Q0":"2"}
+survey-text,47,185103,4410.370000055991,"",,,,,,{"Q0":"2"}
+survey-text,48,186459,1352.710000006482,"",,,,,,{"Q0":"4"}
+survey-text,49,187991,1527.970000053756,"",,,,,,{"Q0":"5"}
+survey-text,50,189360,1364.3300000112504,"",,,,,,{"Q0":"4"}
+survey-text,51,190588,1223.9149999804795,"",,,,,,{"Q0":"6"}
+survey-text,52,191975,1383.4599999245256,"",,,,,,{"Q0":"3"}
+survey-text,53,198500,6520.450000069104,"",,,,,,{"Q0":"dreary"}
+survey-text,54,202220,3715.5100000090897,"",,,,,,{"Q0":"peaceful"}
+survey-text,55,214894,12669.660000014119,"",,,,,,{"Q0":"smooth"}
+survey-text,56,217490,2592.629999970086,"",,,,,,{"Q0":"heavy"}
+survey-text,57,243870,26374.350000056438,"",,,,,,{"Q0":"happy"}
+survey-text,58,258025,14149.585000006482,"",,,,,,{"Q0":"small"}
+survey-text,59,307897,49868.63000004087,"",,,,,,{"Q0":"grateful"}
+html-keyboard-response,60,315900,8000.645000021905,"<p>We will now begin the experiment!<p><p>Please try to remember all words from each list.<p><p>Press the spacebar whenever you see a red square.<p><p><p><p>Press the spacebar to begin.</p>",174,,,,,
+html-keyboard-response,61,319174,2757.484999950975,"<div style=""font-size:48px;"">Press any key to begin list 1 of 24 </div>",32,,,,,
+html-keyboard-response,62,321696,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,63,322209,null,"COMET<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,64,323725,null,"COMET",null,word,,, 'COMET',
+html-keyboard-response,65,324227,null,"STAR<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,66,325739,null,"STAR",null,word,,, 'STAR',
+html-keyboard-response,67,326241,null,"CHIPMUNK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,68,327751,null,"CHIPMUNK",null,word,,, 'CHIPMUNK',
+html-keyboard-response,69,328255,null,"JUDGE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,70,329764,null,"JUDGE",null,word,,, 'JUDGE',
+html-keyboard-response,71,330281,null,"CHAMPAGNE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,72,331791,null,"CHAMPAGNE",null,word,,, 'CHAMPAGNE',
+html-keyboard-response,73,331870,77.22500001545995,"AUTHOR<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",32,word_square,0,SPACEBAR,,
+html-keyboard-response,74,333377,null,"AUTHOR",null,word,,, 'AUTHOR',
+html-keyboard-response,75,333893,null,"CARROT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,76,335408,null,"CARROT",null,word,,, 'CARROT',
+html-keyboard-response,77,335921,null,"SENATE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,78,337434,null,"SENATE",null,word,,, 'SENATE',
+html-keyboard-response,79,337949,null,"GODDESS<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,80,339464,null,"GODDESS",null,word,,, 'GODDESS',
+html-keyboard-response,81,339979,null,"GUITAR<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,82,341488,null,"GUITAR",null,word,,, 'GUITAR',
+html-keyboard-response,83,342000,null,"BRANCH<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,84,343512,null,"BRANCH",null,word,,, 'BRANCH',
+html-keyboard-response,85,344026,null,"SAPPHIRE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,86,345537,null,"SAPPHIRE",null,word,,, 'SAPPHIRE',
+html-keyboard-response,87,346048,null,"CRACKER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,88,347556,null,"CRACKER",null,word,,, 'CRACKER',
+html-keyboard-response,89,348071,null,"POSTAGE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,90,349584,null,"POSTAGE",null,word,,, 'POSTAGE',
+html-keyboard-response,91,350098,null,"BOX<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,92,351609,null,"BOX",null,word,,, 'BOX',
+html-keyboard-response,93,352122,null,"STOCKING<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,94,353632,null,"STOCKING",null,word,,, 'STOCKING',
+html-keyboard-response,95,354145,null,"CABBAGE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,96,355659,null,"CABBAGE",null,word,,, 'CABBAGE',
+html-keyboard-response,97,356174,null,"POISON<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,98,357684,null,"POISON",null,word,,, 'POISON',
+survey-text,99,359711,2023.784999968484,"",,,,,,{"Q0":"4"}
+survey-text,100,362427,2711.8300000438467,"",,,,,,{"Q0":"4"}
+survey-text,101,364856,2424.5200000004843,"",,,,,,{"Q0":"1"}
+survey-text,102,366286,1425.3699999535456,"",,,,,,{"Q0":"3"}
+survey-text,103,369411,3121.1050000274554,"",,,,,,{"Q0":"4"}
+survey-text,104,370786,1371.4700000127777,"",,,,,,{"Q0":"5"}
+survey-text,105,372343,1550.7550000911579,"",,,,,,{"Q0":"4"}
+survey-text,106,376585,4237.475000089034,"",,,,,,{"Q0":"4"}
+survey-text,107,377821,1233.6199999554083,"",,,,,,{"Q0":"3"}
+survey-text,108,380402,2576.6900000162423,"",,,,,,{"Q0":"2"}
+survey-text,109,382190,1783.754999982193,"",,,,,,{"Q0":"5"}
+survey-text,110,384451,2256.364999921061,"",,,,,,{"Q0":"box"}
+survey-text,111,386167,1710.8149999985471,"",,,,,,{"Q0":"comet"}
+survey-text,112,387149,977.6349999010563,"",,,,,,{"Q0":"star"}
+survey-text,113,388398,1244.6050000144169,"",,,,,,{"Q0":"judge"}
+survey-text,114,409343,20940.93000004068,"",,,,,,{"Q0":"stocking"}
+survey-text,115,430091,20744.09499997273,"",,,,,,{"Q0":"sapphire "}
+survey-text,116,524837,94741.36999994516,"",,,,,,{"Q0":"guitar"}
+html-keyboard-response,117,532348,7509.240000043064,"<div style=""font-size:48px;"">Press any key to begin list 2 of 24 </div>",32,,,,,
+html-keyboard-response,118,534863,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,119,535376,null,"PLANT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,120,536890,null,"PLANT",null,word,,, 'PLANT',
+html-keyboard-response,121,537405,null,"OMELET<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,122,538908,null,"OMELET",null,word,,, 'OMELET',
+html-keyboard-response,123,539412,null,"CAPTAIN<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,124,540919,null,"CAPTAIN",null,word,,, 'CAPTAIN',
+html-keyboard-response,125,541433,null,"BIBLE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,126,542948,null,"BIBLE",null,word,,, 'BIBLE',
+html-keyboard-response,127,543460,null,"SEAFOOD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,128,544966,null,"SEAFOOD",null,word,,, 'SEAFOOD',
+html-keyboard-response,129,545482,null,"BACON<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,130,546993,null,"BACON",null,word,,, 'BACON',
+html-keyboard-response,131,547495,null,"BEAVER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,132,549001,null,"BEAVER",null,word,,, 'BEAVER',
+html-keyboard-response,133,549516,null,"PEBBLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,134,551021,null,"PEBBLE",null,word,,, 'PEBBLE',
+html-keyboard-response,135,551523,null,"GRAVEL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,136,553026,null,"GRAVEL",null,word,,, 'GRAVEL',
+html-keyboard-response,137,553541,null,"MAMMAL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,138,555047,null,"MAMMAL",null,word,,, 'MAMMAL',
+html-keyboard-response,139,555549,null,"FLIPPER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,140,557057,null,"FLIPPER",null,word,,, 'FLIPPER',
+html-keyboard-response,141,557570,null,"BANDAGE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,142,559080,null,"BANDAGE",null,word,,, 'BANDAGE',
+html-keyboard-response,143,559583,null,"THIMBLE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,144,561100,null,"THIMBLE",null,word,,, 'THIMBLE',
+html-keyboard-response,145,561614,null,"HEART<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,146,563122,null,"HEART",null,word,,, 'HEART',
+html-keyboard-response,147,563635,null,"BLOSSOM<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,148,565143,null,"BLOSSOM",null,word,,, 'BLOSSOM',
+html-keyboard-response,149,565645,null,"SIDEWALK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,150,567156,null,"SIDEWALK",null,word,,, 'SIDEWALK',
+html-keyboard-response,151,567659,null,"SHARK<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,152,569166,null,"SHARK",null,word,,, 'SHARK',
+html-keyboard-response,153,569668,null,"TWEEZERS<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,154,571183,null,"TWEEZERS",null,word,,, 'TWEEZERS',
+survey-text,155,575702,4515.439999988303,"",,,,,,{"Q0":"3"}
+survey-text,156,576651,945.9949999582022,"",,,,,,{"Q0":"2"}
+survey-text,157,578001,1345.7600000547245,"",,,,,,{"Q0":"5"}
+survey-text,158,579287,1282.2549999691546,"",,,,,,{"Q0":"6"}
+survey-text,159,580646,1354.0500000817701,"",,,,,,{"Q0":"5"}
+survey-text,160,581613,964.2349999630824,"",,,,,,{"Q0":"5"}
+survey-text,161,583848,2231.000000028871,"",,,,,,{"Q0":"0"}
+survey-text,162,586746,2891.895000007935,"",,,,,,{"Q0":"0"}
+survey-text,163,588855,2103.8649999536574,"",,,,,,{"Q0":"2"}
+survey-text,164,591433,2573.78500001505,"",,,,,,{"Q0":"4"}
+survey-text,165,593290,1855.4299999959767,"",,,,,,{"Q0":"0"}
+survey-text,166,594373,1080.5750000290573,"",,,,,,{"Q0":"4"}
+survey-text,167,596565,2189.585000043735,"",,,,,,{"Q0":"0"}
+survey-text,168,606240,9670.840000035241,"",,,,,,{"Q0":"omelet"}
+survey-text,169,614948,8704.329999978654,"",,,,,,{"Q0":"bandage"}
+survey-text,170,620113,5160.574999987148,"",,,,,,{"Q0":"beaver"}
+survey-text,171,623688,3569.935000035912,"",,,,,,{"Q0":"thimble "}
+survey-text,172,626353,2660.9150000149384,"",,,,,,{"Q0":"tweezers"}
+survey-text,173,629766,3408.8850000407547,"",,,,,,{"Q0":"captain"}
+survey-text,174,631602,1831.6900000208989,"",,,,,,{"Q0":"barrel"}
+survey-text,175,641375,9766.900000046007,"",,,,,,{"Q0":"mammal"}
+survey-text,176,667374,25994.665000005625,"",,,,,,{"Q0":"plant"}
+survey-text,177,678526,11147.515000076964,"",,,,,,{"Q0":"egg"}
+html-keyboard-response,178,679467,939.200000022538,"<div style=""font-size:48px;"">Press any key to begin list 3 of 24 </div>",13,,,,,
+html-keyboard-response,179,681979,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,180,682481,null,"GLASSES<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,181,683990,null,"GLASSES",null,word,,, 'GLASSES',
+html-keyboard-response,182,684507,null,"GLASS<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,183,686022,null,"GLASS",null,word,,, 'GLASS',
+html-keyboard-response,184,686536,null,"BLUEPRINT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,185,688038,null,"BLUEPRINT",null,word,,, 'BLUEPRINT',
+html-keyboard-response,186,688540,null,"STABLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,187,690046,null,"STABLE",null,word,,, 'STABLE',
+html-keyboard-response,188,690561,null,"TUBA<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,189,692074,null,"TUBA",null,word,,, 'TUBA',
+html-keyboard-response,190,692577,null,"STRING<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,191,694083,null,"STRING",null,word,,, 'STRING',
+html-keyboard-response,192,694594,null,"CABIN<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,193,696109,null,"CABIN",null,word,,, 'CABIN',
+html-keyboard-response,194,696623,null,"FRIES<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,195,698131,null,"FRIES",null,word,,, 'FRIES',
+html-keyboard-response,196,698633,null,"NOMAD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,197,700138,null,"NOMAD",null,word,,, 'NOMAD',
+html-keyboard-response,198,700653,null,"MISTER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,199,702165,null,"MISTER",null,word,,, 'MISTER',
+html-keyboard-response,200,702668,null,"SPACE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,201,704178,null,"SPACE",null,word,,, 'SPACE',
+html-keyboard-response,202,704680,null,"ROCKET<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,203,706190,null,"ROCKET",null,word,,, 'ROCKET',
+html-keyboard-response,204,706692,null,"BOUQUET<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,205,708202,null,"BOUQUET",null,word,,, 'BOUQUET',
+html-keyboard-response,206,708720,null,"ULCER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,207,710227,null,"ULCER",null,word,,, 'ULCER',
+html-keyboard-response,208,710729,null,"RELISH<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,209,712236,null,"RELISH",null,word,,, 'RELISH',
+html-keyboard-response,210,712738,null,"TOOTHBRUSH<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,211,714250,null,"TOOTHBRUSH",null,word,,, 'TOOTHBRUSH',
+html-keyboard-response,212,714753,null,"FLOWER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,213,716261,null,"FLOWER",null,word,,, 'FLOWER',
+html-keyboard-response,214,716775,null,"FLAG<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,215,718290,null,"FLAG",null,word,,, 'FLAG',
+survey-text,216,721031,2736.9350000517443,"",,,,,,{"Q0":"2"}
+survey-text,217,722430,1395.2900000149384,"",,,,,,{"Q0":"5"}
+survey-text,218,723389,954.6000000555068,"",,,,,,{"Q0":"2"}
+survey-text,219,724551,1157.1799999801442,"",,,,,,{"Q0":"3"}
+survey-text,220,725620,1065.4849999118596,"",,,,,,{"Q0":"3"}
+survey-text,221,726881,1255.6399999884889,"",,,,,,{"Q0":"4"}
+survey-text,222,729823,2938.8899999903515,"",,,,,,{"Q0":"3"}
+survey-text,223,731562,1734.8800000036135,"",,,,,,{"Q0":"2"}
+survey-text,224,733838,2273.2149999355897,"",,,,,,{"Q0":"1"}
+survey-text,225,735070,1228.7249999353662,"",,,,,,{"Q0":"4"}
+survey-text,226,736275,1200.3350000595674,"",,,,,,{"Q0":"3"}
+survey-text,227,738530,2252.390000037849,"",,,,,,{"Q0":"1"}
+survey-text,228,739788,1253.3500000135973,"",,,,,,{"Q0":"5"}
+survey-text,229,741051,1258.659999934025,"",,,,,,{"Q0":"5"}
+survey-text,230,742846,1790.4900000430644,"",,,,,,{"Q0":"3"}
+survey-text,231,747089,4236.739999963902,"",,,,,,{"Q0":"toothbrush"}
+survey-text,232,748263,1170.7799999276176,"",,,,,,{"Q0":"mister"}
+survey-text,233,763348,15080.454999930225,"",,,,,,{"Q0":"glass"}
+survey-text,234,764938,1585.4600000893697,"",,,,,,{"Q0":"glasses"}
+survey-text,235,768252,3310.5600000126287,"",,,,,,{"Q0":"space"}
+survey-text,236,837569,69312.99000000581,"",,,,,,{"Q0":"string"}
+html-keyboard-response,237,838731,1159.3550000106916,"<div style=""font-size:48px;"">Press any key to begin list 4 of 24 </div>",32,,,,,
+html-keyboard-response,238,841246,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,239,841749,null,"LASER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,240,843259,null,"LASER",null,word,,, 'LASER',
+html-keyboard-response,241,843762,null,"TURKEY<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,242,845271,null,"TURKEY",null,word,,, 'TURKEY',
+html-keyboard-response,243,845786,null,"CRYSTAL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,244,847296,null,"CRYSTAL",null,word,,, 'CRYSTAL',
+html-keyboard-response,245,847798,null,"COOK<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,246,849304,null,"COOK",null,word,,, 'COOK',
+html-keyboard-response,247,849816,null,"GERM<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,248,851328,null,"GERM",null,word,,, 'GERM',
+html-keyboard-response,249,851830,null,"WIDOW<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,250,853343,null,"WIDOW",null,word,,, 'WIDOW',
+html-keyboard-response,251,853845,null,"FATHER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,252,855360,null,"FATHER",null,word,,, 'FATHER',
+html-keyboard-response,253,855862,null,"TRIGGER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,254,857371,null,"TRIGGER",null,word,,, 'TRIGGER',
+html-keyboard-response,255,857874,null,"BEEF<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,256,859377,null,"BEEF",null,word,,, 'BEEF',
+html-keyboard-response,257,859880,null,"SEASHORE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,258,861395,null,"SEASHORE",null,word,,, 'SEASHORE',
+html-keyboard-response,259,861898,null,"DORM<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,260,863403,null,"DORM",null,word,,, 'DORM',
+html-keyboard-response,261,863905,null,"HAWK<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,262,865417,null,"HAWK",null,word,,, 'HAWK',
+html-keyboard-response,263,865920,null,"LOFT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,264,867423,null,"LOFT",null,word,,, 'LOFT',
+html-keyboard-response,265,867937,null,"TRACTOR<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,266,869449,null,"TRACTOR",null,word,,, 'TRACTOR',
+html-keyboard-response,267,869963,null,"CLAM<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,268,871475,null,"CLAM",null,word,,, 'CLAM',
+html-keyboard-response,269,871986,null,"SCALLOP<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,270,873497,null,"SCALLOP",null,word,,, 'SCALLOP',
+html-keyboard-response,271,874010,null,"CAFE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,272,875520,null,"CAFE",null,word,,, 'CAFE',
+html-keyboard-response,273,876022,null,"PEPPER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,274,877535,null,"PEPPER",null,word,,, 'PEPPER',
+survey-text,275,878973,1433.60499991104,"",,,,,,{"Q0":"3"}
+survey-text,276,880566,1591.2000000244007,"",,,,,,{"Q0":"2"}
+survey-text,277,881563,992.6149999955669,"",,,,,,{"Q0":"4"}
+survey-text,278,883210,1643.140000058338,"",,,,,,{"Q0":"3"}
+survey-text,279,885119,1905.7299999985844,"",,,,,,{"Q0":"2"}
+survey-text,280,886487,1362.7850000048056,"",,,,,,{"Q0":"2"}
+survey-text,281,888629,2137.180000077933,"",,,,,,{"Q0":"0"}
+survey-text,282,890819,2185.1150000002235,"",,,,,,{"Q0":"1"}
+survey-text,283,892262,1438.4999999310821,"",,,,,,{"Q0":"6"}
+survey-text,284,893431,1165.084999985993,"",,,,,,{"Q0":"5"}
+survey-text,285,895781,2346.380000002682,"",,,,,,{"Q0":"3"}
+survey-text,286,897817,2031.1599998967722,"",,,,,,{"Q0":"1"}
+survey-text,287,898981,1158.3050000481308,"",,,,,,{"Q0":"2"}
+survey-text,288,902974,3989.700000034645,"",,,,,,{"Q0":"4"}
+survey-text,289,906978,4000.08499994874,"",,,,,,{"Q0":"cafe"}
+survey-text,290,913859,6876.2799999676645,"",,,,,,{"Q0":"scallop"}
+survey-text,291,914869,1006.7300000227988,"",,,,,,{"Q0":"clam"}
+survey-text,292,920647,5774.1049999604,"",,,,,,{"Q0":"turkey"}
+survey-text,293,940518,19865.4899999965,"",,,,,,{"Q0":"trigger"}
+survey-text,294,1002241,61718.64000009373,"",,,,,,{"Q0":"tractor"}
+html-keyboard-response,295,1003000,757.4049999238923,"<div style=""font-size:48px;"">Press any key to begin list 5 of 24 </div>",13,,,,,
+html-keyboard-response,296,1005520,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,297,1006022,null,"MUSHROOM<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,298,1007533,null,"MUSHROOM",null,word,,, 'MUSHROOM',
+html-keyboard-response,299,1008050,null,"ROOSTER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,300,1009564,null,"ROOSTER",null,word,,, 'ROOSTER',
+html-keyboard-response,301,1010078,null,"MUSTARD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,302,1011594,null,"MUSTARD",null,word,,, 'MUSTARD',
+html-keyboard-response,303,1012110,null,"HANGER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,304,1013621,null,"HANGER",null,word,,, 'HANGER',
+html-keyboard-response,305,1014124,null,"LAMP<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,306,1015637,null,"LAMP",null,word,,, 'LAMP',
+html-keyboard-response,307,1016149,null,"PAPER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,308,1017663,null,"PAPER",null,word,,, 'PAPER',
+html-keyboard-response,309,1018176,null,"KEEPER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,310,1019690,null,"KEEPER",null,word,,, 'KEEPER',
+html-keyboard-response,311,1020192,null,"DAUGHTER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,312,1021700,null,"DAUGHTER",null,word,,, 'DAUGHTER',
+html-keyboard-response,313,1022202,null,"TUNNEL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,314,1023718,null,"TUNNEL",null,word,,, 'TUNNEL',
+html-keyboard-response,315,1024219,null,"JAR<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,316,1025726,null,"JAR",null,word,,, 'JAR',
+html-keyboard-response,317,1026241,null,"KETCHUP<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,318,1027754,null,"KETCHUP",null,word,,, 'KETCHUP',
+html-keyboard-response,319,1028267,null,"NIGHTGOWN<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,320,1029779,null,"NIGHTGOWN",null,word,,, 'NIGHTGOWN',
+html-keyboard-response,321,1030291,510.0749999983236,"SCRIBBLE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,322,1031795,null,"SCRIBBLE",null,word,,, 'SCRIBBLE',
+html-keyboard-response,323,1032298,null,"CYCLONE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,324,1033804,null,"CYCLONE",null,word,,, 'CYCLONE',
+html-keyboard-response,325,1034307,null,"PUDDLE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,326,1035823,null,"PUDDLE",null,word,,, 'PUDDLE',
+html-keyboard-response,327,1036339,null,"PONY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,328,1037842,null,"PONY",null,word,,, 'PONY',
+html-keyboard-response,329,1038357,null,"BLACKBOARD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,330,1039860,null,"BLACKBOARD",null,word,,, 'BLACKBOARD',
+html-keyboard-response,331,1040326,464.31499999016523,"BOARD<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,332,1041837,null,"BOARD",null,word,,, 'BOARD',
+survey-text,333,1044020,2177.0549999782816,"",,,,,,{"Q0":"2"}
+survey-text,334,1045938,1914.6699999691918,"",,,,,,{"Q0":"4"}
+survey-text,335,1048738,2797.5899999728426,"",,,,,,{"Q0":"2"}
+survey-text,336,1050506,1765.6300000380725,"",,,,,,{"Q0":"1"}
+survey-text,337,1051822,1312.8299999516457,"",,,,,,{"Q0":"2"}
+survey-text,338,1052927,1102.309999987483,"",,,,,,{"Q0":"2"}
+survey-text,339,1054440,1508.9099999750033,"",,,,,,{"Q0":"2"}
+survey-text,340,1056420,1977.5600000284612,"",,,,,,{"Q0":"1"}
+survey-text,341,1057752,1329.2399999918416,"",,,,,,{"Q0":"2"}
+survey-text,342,1059697,1941.9149999739602,"",,,,,,{"Q0":"5"}
+survey-text,343,1061012,1310.7100001070648,"",,,,,,{"Q0":"3"}
+survey-text,344,1062917,1900.9399999631569,"",,,,,,{"Q0":"3"}
+survey-text,345,1063931,1010.9099999535829,"",,,,,,{"Q0":"2"}
+survey-text,346,1066003,2067.490000044927,"",,,,,,{"Q0":"3"}
+survey-text,347,1080902,14896.9550000038,"",,,,,,{"Q0":"board"}
+survey-text,348,1082641,1735.4249999625608,"",,,,,,{"Q0":"blackboard"}
+survey-text,349,1084285,1639.189999899827,"",,,,,,{"Q0":"mushroom"}
+survey-text,350,1085438,1149.2700000526384,"",,,,,,{"Q0":"rooster"}
+survey-text,351,1094400,8956.874999916181,"",,,,,,{"Q0":"lamp"}
+survey-text,352,1103931,9528.00000004936,"",,,,,,{"Q0":"puddle"}
+survey-text,353,1125746,21811.64000008721,"",,,,,,{"Q0":"hawk"}
+survey-text,354,1169872,44121.230000047944,"",,,,,,{"Q0":"pond"}
+html-keyboard-response,355,1170676,802.1849999204278,"<div style=""font-size:48px;"">Press any key to begin list 6 of 24 </div>",13,,,,,
+html-keyboard-response,356,1173189,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,357,1173691,null,"SHEPHERD<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,358,1175196,null,"SHEPHERD",null,word,,, 'SHEPHERD',
+html-keyboard-response,359,1175699,null,"COTTAGE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,360,1177210,null,"COTTAGE",null,word,,, 'COTTAGE',
+html-keyboard-response,361,1177712,null,"FEAST<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,362,1179224,null,"FEAST",null,word,,, 'FEAST',
+html-keyboard-response,363,1179663,438.0850000306964,"FACE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,364,1181171,null,"FACE",null,word,,, 'FACE',
+html-keyboard-response,365,1181688,null,"VAMPIRE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,366,1183201,null,"VAMPIRE",null,word,,, 'VAMPIRE',
+html-keyboard-response,367,1183705,null,"SADDLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,368,1185216,null,"SADDLE",null,word,,, 'SADDLE',
+html-keyboard-response,369,1185684,465.92500002589077,"GROUND<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,370,1187199,null,"GROUND",null,word,,, 'GROUND',
+html-keyboard-response,371,1187714,null,"SOFTBALL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,372,1189226,null,"SOFTBALL",null,word,,, 'SOFTBALL',
+html-keyboard-response,373,1189742,null,"RACKET<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,374,1191252,null,"RACKET",null,word,,, 'RACKET',
+html-keyboard-response,375,1191769,null,"STALLION<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,376,1193279,null,"STALLION",null,word,,, 'STALLION',
+html-keyboard-response,377,1193657,376.47000001743436,"DESSERT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,378,1195172,null,"DESSERT",null,word,,, 'DESSERT',
+html-keyboard-response,379,1195687,null,"HOOD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,380,1197199,null,"HOOD",null,word,,, 'HOOD',
+html-keyboard-response,381,1197516,315.17499999608845,"REBEL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,382,1199026,null,"REBEL",null,word,,, 'REBEL',
+html-keyboard-response,383,1199538,null,"COMPASS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,384,1201053,null,"COMPASS",null,word,,, 'COMPASS',
+html-keyboard-response,385,1201421,364.62999996729195,"TILE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,386,1202937,null,"TILE",null,word,,, 'TILE',
+html-keyboard-response,387,1203440,null,"DASHBOARD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,388,1204952,null,"DASHBOARD",null,word,,, 'DASHBOARD',
+html-keyboard-response,389,1205454,null,"MOTOR<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,390,1206964,null,"MOTOR",null,word,,, 'MOTOR',
+html-keyboard-response,391,1207279,313.76000004820526,"FILM<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,392,1208791,null,"FILM",null,word,,, 'FILM',
+survey-text,393,1210000,1205.4599999682978,"",,,,,,{"Q0":"3"}
+survey-text,394,1211897,1893.220000085421,"",,,,,,{"Q0":"1"}
+survey-text,395,1213819,1917.6650000736117,"",,,,,,{"Q0":"1"}
+survey-text,396,1215315,1493.7650000210851,"",,,,,,{"Q0":"2"}
+survey-text,397,1217033,1713.7349999975413,"",,,,,,{"Q0":"2"}
+survey-text,398,1220033,2996.8399999197572,"",,,,,,{"Q0":"4"}
+survey-text,399,1221911,1875.0800000270829,"",,,,,,{"Q0":"3"}
+survey-text,400,1222722,806.9599999580532,"",,,,,,{"Q0":"3"}
+survey-text,401,1223818,1093.155000009574,"",,,,,,{"Q0":"2"}
+survey-text,402,1226064,2242.079999996349,"",,,,,,{"Q0":"2"}
+survey-text,403,1227978,1910.024999990128,"",,,,,,{"Q0":"3"}
+survey-text,404,1230142,2159.3400000128895,"",,,,,,{"Q0":"4"}
+survey-text,405,1231207,1061.3400000147521,"",,,,,,{"Q0":"4"}
+survey-text,406,1232191,979.2250000173226,"",,,,,,{"Q0":"3"}
+survey-text,407,1233128,933.2050000084564,"",,,,,,{"Q0":"4"}
+survey-text,408,1239532,6401.579999946989,"",,,,,,{"Q0":"stallion"}
+survey-text,409,1243802,4265.754999942146,"",,,,,,{"Q0":"shepherd "}
+survey-text,410,1258249,14443.48000001628,"",,,,,,{"Q0":"dust "}
+survey-text,411,1271601,13347.545000026003,"",,,,,,{"Q0":"horse"}
+survey-text,412,1304439,32832.7050000662,"",,,,,,{"Q0":"dune"}
+survey-text,413,1343380,38937.14000005275,"",,,,,,{"Q0":"racket"}
+html-keyboard-response,414,1344746,1365.2449999935925,"<div style=""font-size:48px;"">Press any key to begin list 7 of 24 </div>",32,,,,,
+html-keyboard-response,415,1347267,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,416,1347769,null,"ROBOT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,417,1349284,null,"ROBOT",null,word,,, 'ROBOT',
+html-keyboard-response,418,1349675,389.62500006891787,"CRITIC<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,419,1351182,null,"CRITIC",null,word,,, 'CRITIC',
+html-keyboard-response,420,1351697,null,"PASSAGE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,421,1353205,null,"PASSAGE",null,word,,, 'PASSAGE',
+html-keyboard-response,422,1353718,null,"PENCIL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,423,1355234,null,"PENCIL",null,word,,, 'PENCIL',
+html-keyboard-response,424,1355714,478.55999995954335,"MACHINE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,425,1357230,null,"MACHINE",null,word,,, 'MACHINE',
+html-keyboard-response,426,1357698,467.18000003602356,"TIGER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,427,1359210,null,"TIGER",null,word,,, 'TIGER',
+html-keyboard-response,428,1359726,null,"ADULT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,429,1361241,null,"ADULT",null,word,,, 'ADULT',
+html-keyboard-response,430,1361756,null,"PRINCESS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,431,1363271,null,"PRINCESS",null,word,,, 'PRINCESS',
+html-keyboard-response,432,1363786,null,"PALACE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,433,1365303,null,"PALACE",null,word,,, 'PALACE',
+html-keyboard-response,434,1365807,null,"PRINCE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,435,1367313,null,"PRINCE",null,word,,, 'PRINCE',
+html-keyboard-response,436,1367827,null,"FRIEND<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,437,1369344,null,"FRIEND",null,word,,, 'FRIEND',
+html-keyboard-response,438,1369860,null,"CHECKERS<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,439,1371371,null,"CHECKERS",null,word,,, 'CHECKERS',
+html-keyboard-response,440,1371873,null,"SHELF<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,441,1373384,null,"SHELF",null,word,,, 'SHELF',
+html-keyboard-response,442,1373900,null,"SUNRISE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,443,1375414,null,"SUNRISE",null,word,,, 'SUNRISE',
+html-keyboard-response,444,1375930,null,"WAITRESS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,445,1377438,null,"WAITRESS",null,word,,, 'WAITRESS',
+html-keyboard-response,446,1377952,null,"DAGGER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,447,1379467,null,"DAGGER",null,word,,, 'DAGGER',
+html-keyboard-response,448,1379971,null,"CANDY<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,449,1381480,null,"CANDY",null,word,,, 'CANDY',
+html-keyboard-response,450,1381992,null,"TART<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,451,1383503,null,"TART",null,word,,, 'TART',
+survey-text,452,1385802,2296.4500000234693,"",,,,,,{"Q0":"5"}
+survey-text,453,1387542,1735.4300000006333,"",,,,,,{"Q0":"2"}
+survey-text,454,1389483,1938.0150000797585,"",,,,,,{"Q0":"4"}
+survey-text,455,1390722,1235.575000056997,"",,,,,,{"Q0":"5"}
+survey-text,456,1391701,976.6700000036508,"",,,,,,{"Q0":"2"}
+survey-text,457,1393020,1315.500000026077,"",,,,,,{"Q0":"5"}
+survey-text,458,1395306,2283.4700000239536,"",,,,,,{"Q0":"0"}
+survey-text,459,1397021,1709.7500000381842,"",,,,,,{"Q0":"4"}
+survey-text,460,1398863,1837.8500000108033,"",,,,,,{"Q0":"0"}
+survey-text,461,1400910,2042.630000039935,"",,,,,,{"Q0":"2"}
+survey-text,462,1403321,2407.190000056289,"",,,,,,{"Q0":"4"}
+survey-text,463,1405047,1721.4449999155477,"",,,,,,{"Q0":"1"}
+survey-text,464,1407587,2536.380000063218,"",,,,,,{"Q0":"0"}
+survey-text,465,1410718,3125.4900000058115,"",,,,,,{"Q0":"princess"}
+survey-text,466,1411803,1081.4900000113994,"",,,,,,{"Q0":"adult"}
+survey-text,467,1412976,1168.610000051558,"",,,,,,{"Q0":"prince"}
+survey-text,468,1414669,1689.2300000181422,"",,,,,,{"Q0":"palace"}
+survey-text,469,1416390,1716.4599999086931,"",,,,,,{"Q0":"checkers"}
+survey-text,470,1417330,937.0600000256673,"",,,,,,{"Q0":"shelf"}
+survey-text,471,1422467,5133.32000002265,"",,,,,,{"Q0":"waitress"}
+survey-text,472,1423703,1231.015000026673,"",,,,,,{"Q0":"tart"}
+survey-text,473,1424800,1091.8100000126287,"",,,,,,{"Q0":"candy"}
+survey-text,474,1426376,1573.1999999843538,"",,,,,,{"Q0":"dagger"}
+survey-text,475,1445805,19425.404999987222,"",,,,,,{"Q0":"shelter "}
+survey-text,476,1474750,28941.854999982752,"",,,,,,{"Q0":"cottage"}
+survey-text,477,1496366,21611.84000002686,"",,,,,,{"Q0":"sunrise"}
+html-keyboard-response,478,1497836,1469.0600000321865,"<div style=""font-size:48px;"">Press any key to begin list 8 of 24 </div>",32,,,,,
+html-keyboard-response,479,1500354,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,480,1500857,null,"MARINE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,481,1502374,null,"MARINE",null,word,,, 'MARINE',
+html-keyboard-response,482,1502877,null,"BROOK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,483,1504383,null,"BROOK",null,word,,, 'BROOK',
+html-keyboard-response,484,1504885,null,"DECK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,485,1506391,null,"DECK",null,word,,, 'DECK',
+html-keyboard-response,486,1506903,null,"STATUE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,487,1508414,null,"STATUE",null,word,,, 'STATUE',
+html-keyboard-response,488,1508917,null,"BANQUET<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,489,1510428,null,"BANQUET",null,word,,, 'BANQUET',
+html-keyboard-response,490,1510931,null,"LIVER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,491,1512441,null,"LIVER",null,word,,, 'LIVER',
+html-keyboard-response,492,1512943,null,"BOYFRIEND<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,493,1514450,null,"BOYFRIEND",null,word,,, 'BOYFRIEND',
+html-keyboard-response,494,1514953,null,"ITEM<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,495,1516459,null,"ITEM",null,word,,, 'ITEM',
+html-keyboard-response,496,1516960,null,"SCULPTURE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,497,1518476,null,"SCULPTURE",null,word,,, 'SCULPTURE',
+html-keyboard-response,498,1518979,null,"PLASTER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,499,1520489,null,"PLASTER",null,word,,, 'PLASTER',
+html-keyboard-response,500,1520991,null,"BINDER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,501,1522506,null,"BINDER",null,word,,, 'BINDER',
+html-keyboard-response,502,1523008,null,"CROOK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,503,1524521,null,"CROOK",null,word,,, 'CROOK',
+html-keyboard-response,504,1525034,null,"SWEATER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,505,1526545,null,"SWEATER",null,word,,, 'SWEATER',
+html-keyboard-response,506,1527048,null,"WASHER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,507,1528555,null,"WASHER",null,word,,, 'WASHER',
+html-keyboard-response,508,1529070,null,"HAMPER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,509,1530579,null,"HAMPER",null,word,,, 'HAMPER',
+html-keyboard-response,510,1531082,null,"ASIA<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,511,1532590,null,"ASIA",null,word,,, 'ASIA',
+html-keyboard-response,512,1533093,null,"LADDER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,513,1534605,null,"LADDER",null,word,,, 'LADDER',
+html-keyboard-response,514,1535108,null,"COSTUME<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,515,1536611,null,"COSTUME",null,word,,, 'COSTUME',
+survey-text,516,1539920,3305.060000042431,"",,,,,,{"Q0":"5"}
+survey-text,517,1541436,1512.8799999365583,"",,,,,,{"Q0":"5"}
+survey-text,518,1543675,2234.5300000160933,"",,,,,,{"Q0":"0"}
+survey-text,519,1544908,1228.2300000078976,"",,,,,,{"Q0":"2"}
+survey-text,520,1546103,1191.2999999476597,"",,,,,,{"Q0":"5"}
+survey-text,521,1547050,944.3450000835583,"",,,,,,{"Q0":"3"}
+survey-text,522,1548151,1098.6249999841675,"",,,,,,{"Q0":"3"}
+survey-text,523,1549628,1473.9400000544265,"",,,,,,{"Q0":"1"}
+survey-text,524,1551331,1698.2899999711663,"",,,,,,{"Q0":"1"}
+survey-text,525,1552407,1072.1799999009818,"",,,,,,{"Q0":"4"}
+survey-text,526,1553340,929.9200000241399,"",,,,,,{"Q0":"4"}
+survey-text,527,1554416,1071.6900000115857,"",,,,,,{"Q0":"2"}
+survey-text,528,1555552,1132.4049999238923,"",,,,,,{"Q0":"5"}
+survey-text,529,1557276,1720.3949999529868,"",,,,,,{"Q0":"1"}
+survey-text,530,1558897,1615.9500000067055,"",,,,,,{"Q0":"2"}
+survey-text,531,1560675,1772.9900000849739,"",,,,,,{"Q0":"1"}
+survey-text,532,1563515,2836.2600000109524,"",,,,,,{"Q0":"hamper"}
+survey-text,533,1566472,2953.994999988936,"",,,,,,{"Q0":"marine"}
+survey-text,534,1568059,1579.6649999683723,"",,,,,,{"Q0":"brook"}
+survey-text,535,1570593,2530.945000005886,"",,,,,,{"Q0":"crook"}
+survey-text,536,1576430,5832.745000021532,"",,,,,,{"Q0":"statue "}
+survey-text,537,1580950,4515.6199999619275,"",,,,,,{"Q0":"sculpture "}
+survey-text,538,1582466,1511.0900000436231,"",,,,,,{"Q0":"plaster"}
+survey-text,539,1584280,1809.8400000017136,"",,,,,,{"Q0":"sweater"}
+survey-text,540,1586198,1914.7700000321493,"",,,,,,{"Q0":"washer"}
+survey-text,541,1588505,2302.989999996498,"",,,,,,{"Q0":"boyfriend"}
+survey-text,542,1593351,4843.304999987595,"",,,,,,{"Q0":"binder"}
+survey-text,543,1599635,6279.029999976046,"",,,,,,{"Q0":"banquet "}
+survey-text,544,1607359,7720.310000004247,"",,,,,,{"Q0":"asia"}
+survey-text,545,1608477,1113.8350000837818,"",,,,,,{"Q0":"ladder"}
+survey-text,546,1609790,1307.5149999931455,"",,,,,,{"Q0":"costume"}
+survey-text,547,1661607,51812.404999975115,"",,,,,,{"Q0":"creek"}
+html-keyboard-response,548,1663979,2370.6249999813735,"<div style=""font-size:48px;"">Press any key to begin list 9 of 24 </div>",32,,,,,
+html-keyboard-response,549,1666503,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,550,1667005,null,"WASP<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,551,1668519,null,"WASP",null,word,,, 'WASP',
+html-keyboard-response,552,1669021,null,"BRIDE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,553,1670531,null,"BRIDE",null,word,,, 'BRIDE',
+html-keyboard-response,554,1671033,null,"DWARF<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,555,1672546,null,"DWARF",null,word,,, 'DWARF',
+html-keyboard-response,556,1673048,null,"WAIST<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,557,1674555,null,"WAIST",null,word,,, 'WAIST',
+html-keyboard-response,558,1675070,null,"PISTON<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,559,1676579,null,"PISTON",null,word,,, 'PISTON',
+html-keyboard-response,560,1677082,null,"ATHLETE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,561,1678590,null,"ATHLETE",null,word,,, 'ATHLETE',
+html-keyboard-response,562,1679092,null,"PEACH<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,563,1680596,null,"PEACH",null,word,,, 'PEACH',
+html-keyboard-response,564,1681099,null,"IGLOO<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,565,1682609,null,"IGLOO",null,word,,, 'IGLOO',
+html-keyboard-response,566,1683125,null,"STAIRS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,567,1684637,null,"STAIRS",null,word,,, 'STAIRS',
+html-keyboard-response,568,1684936,297.8400000138208,"WAGON<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,569,1686443,null,"WAGON",null,word,,, 'WAGON',
+html-keyboard-response,570,1686958,null,"DENIM<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,571,1688467,null,"DENIM",null,word,,, 'DENIM',
+html-keyboard-response,572,1688981,null,"CLOTHES<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,573,1690495,null,"CLOTHES",null,word,,, 'CLOTHES',
+html-keyboard-response,574,1691007,null,"SMOG<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,575,1692517,null,"SMOG",null,word,,, 'SMOG',
+html-keyboard-response,576,1693031,null,"NURSE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,577,1694540,null,"NURSE",null,word,,, 'NURSE',
+html-keyboard-response,578,1695052,null,"SCALPEL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,579,1696563,null,"SCALPEL",null,word,,, 'SCALPEL',
+html-keyboard-response,580,1697080,null,"HONEY<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,581,1698588,null,"HONEY",null,word,,, 'HONEY',
+html-keyboard-response,582,1699100,null,"COUNTY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,583,1700609,null,"COUNTY",null,word,,, 'COUNTY',
+html-keyboard-response,584,1701122,null,"CASHIER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,585,1702630,null,"CASHIER",null,word,,, 'CASHIER',
+survey-text,586,1705084,2449.4100000010803,"",,,,,,{"Q0":"3"}
+survey-text,587,1707297,2208.5400000214577,"",,,,,,{"Q0":"0"}
+survey-text,588,1708551,1248.9349999232218,"",,,,,,{"Q0":"1"}
+survey-text,589,1709720,1166.5149999316782,"",,,,,,{"Q0":"5"}
+survey-text,590,1711965,2241.4349999744445,"",,,,,,{"Q0":"4"}
+survey-text,591,1718857,6887.155000003986,"",,,,,,{"Q0":"2"}
+survey-text,592,1720761,1899.1350000724196,"",,,,,,{"Q0":"5"}
+survey-text,593,1722695,1930.309999966994,"",,,,,,{"Q0":"4"}
+survey-text,594,1724475,1777.1400000201538,"",,,,,,{"Q0":"2"}
+survey-text,595,1725684,1205.240000039339,"",,,,,,{"Q0":"4"}
+survey-text,596,1727499,1811.890000011772,"",,,,,,{"Q0":"2"}
+survey-text,597,1730995,3492.6549999509007,"",,,,,,{"Q0":"wasp"}
+survey-text,598,1732162,1161.904999986291,"",,,,,,{"Q0":"bride"}
+survey-text,599,1736528,4360.319999977946,"",,,,,,{"Q0":"dwarf"}
+survey-text,600,1741096,4563.885000068694,"",,,,,,{"Q0":"waist "}
+survey-text,601,1751914,10814.179999986663,"",,,,,,{"Q0":"piston"}
+survey-text,602,1753253,1334.4900000374764,"",,,,,,{"Q0":"athlete"}
+survey-text,603,1755818,2560.3600000031292,"",,,,,,{"Q0":"peach "}
+survey-text,604,1758844,3022.309999912977,"",,,,,,{"Q0":"igloo"}
+survey-text,605,1768592,9744.405000004917,"",,,,,,{"Q0":"nurse"}
+survey-text,606,1772391,3795.049999956973,"",,,,,,{"Q0":"scalpel "}
+survey-text,607,1780895,8500.725000048988,"",,,,,,{"Q0":"cashier"}
+survey-text,608,1810166,29267.55500002764,"",,,,,,{"Q0":"doctor"}
+html-keyboard-response,609,1817356,7188.844999996945,"<div style=""font-size:48px;"">Press any key to begin list 10 of 24 </div>",32,,,,,
+html-keyboard-response,610,1819864,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,611,1820377,null,"CLERK<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,612,1821888,null,"CLERK",null,word,,, 'CLERK',
+html-keyboard-response,613,1822390,null,"ANGEL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,614,1823899,null,"ANGEL",null,word,,, 'ANGEL',
+html-keyboard-response,615,1824417,null,"PATROL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,616,1825927,null,"PATROL",null,word,,, 'PATROL',
+html-keyboard-response,617,1826341,412.0450000045821,"RIBBON<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,618,1827858,null,"RIBBON",null,word,,, 'RIBBON',
+html-keyboard-response,619,1828373,null,"LAPEL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,620,1829887,null,"LAPEL",null,word,,, 'LAPEL',
+html-keyboard-response,621,1830401,null,"BRUNETTE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,622,1831913,null,"BRUNETTE",null,word,,, 'BRUNETTE',
+html-keyboard-response,623,1832428,null,"NOVEL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,624,1833945,null,"NOVEL",null,word,,, 'NOVEL',
+html-keyboard-response,625,1834447,null,"HANDBAG<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,626,1835952,null,"HANDBAG",null,word,,, 'HANDBAG',
+html-keyboard-response,627,1836468,null,"GIRAFFE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,628,1837979,null,"GIRAFFE",null,word,,, 'GIRAFFE',
+html-keyboard-response,629,1838492,null,"RECORD<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,630,1840002,null,"RECORD",null,word,,, 'RECORD',
+html-keyboard-response,631,1840514,null,"BADGE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,632,1842018,null,"BADGE",null,word,,, 'BADGE',
+html-keyboard-response,633,1842534,null,"TAXI<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,634,1844045,null,"TAXI",null,word,,, 'TAXI',
+html-keyboard-response,635,1844548,null,"SKIRT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,636,1846066,null,"SKIRT",null,word,,, 'SKIRT',
+html-keyboard-response,637,1846579,null,"SHORTS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,638,1848089,null,"SHORTS",null,word,,, 'SHORTS',
+html-keyboard-response,639,1848592,null,"CRAB<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,640,1850096,null,"CRAB",null,word,,, 'CRAB',
+html-keyboard-response,641,1850599,null,"DRESS<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,642,1852108,null,"DRESS",null,word,,, 'DRESS',
+html-keyboard-response,643,1852623,null,"FREEWAY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,644,1854133,null,"FREEWAY",null,word,,, 'FREEWAY',
+html-keyboard-response,645,1854635,null,"ZIPPER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,646,1856145,null,"ZIPPER",null,word,,, 'ZIPPER',
+survey-text,647,1857530,1378.870000015013,"",,,,,,{"Q0":"6"}
+survey-text,648,1859994,2458.2899999804795,"",,,,,,{"Q0":"4"}
+survey-text,649,1861344,1347.6399999344721,"",,,,,,{"Q0":"5"}
+survey-text,650,1862765,1415.5350000364706,"",,,,,,{"Q0":"4"}
+survey-text,651,1863722,953.0599999707192,"",,,,,,{"Q0":"4"}
+survey-text,652,1865887,2161.4599999738857,"",,,,,,{"Q0":"4"}
+survey-text,653,1868479,2588.5049999924377,"",,,,,,{"Q0":"2"}
+survey-text,654,1869397,913.0599999334663,"",,,,,,{"Q0":"4"}
+survey-text,655,1871316,1914.1850000014529,"",,,,,,{"Q0":"4"}
+survey-text,656,1872516,1194.7050000308082,"",,,,,,{"Q0":"3"}
+survey-text,657,1873666,1145.3399999300018,"",,,,,,{"Q0":"1"}
+survey-text,658,1874559,890.235000057146,"",,,,,,{"Q0":"1"}
+survey-text,659,1875888,1325.5750000244007,"",,,,,,{"Q0":"1"}
+survey-text,660,1878067,2174.68000005465,"",,,,,,{"Q0":"2"}
+survey-text,661,1879553,1481.900000013411,"",,,,,,{"Q0":"2"}
+survey-text,662,1880991,1434.1349999886006,"",,,,,,{"Q0":"6"}
+survey-text,663,1882861,1865.8949999371544,"",,,,,,{"Q0":"crab"}
+survey-text,664,1883820,954.8349999822676,"",,,,,,{"Q0":"dress"}
+survey-text,665,1887295,3469.7500000474975,"",,,,,,{"Q0":"freeway"}
+survey-text,666,1888447,1148.5049999319017,"",,,,,,{"Q0":"zipper"}
+survey-text,667,1897280,8829.58499994129,"",,,,,,{"Q0":"clerk"}
+survey-text,668,1898990,1705.3899999009445,"",,,,,,{"Q0":"angel"}
+survey-text,669,1901577,2583.255000063218,"",,,,,,{"Q0":"brunette "}
+survey-text,670,1905590,4007.8750000102445,"",,,,,,{"Q0":"giraffe "}
+survey-text,671,1907142,1547.5050000241026,"",,,,,,{"Q0":"records"}
+survey-text,672,1908344,1198.365000076592,"",,,,,,{"Q0":"skirt"}
+survey-text,673,1909438,1088.5250000283122,"",,,,,,{"Q0":"shorts"}
+survey-text,674,1921704,12263.090000022203,"",,,,,,{"Q0":"patrol"}
+survey-text,675,1923833,2124.970000004396,"",,,,,,{"Q0":"badge"}
+survey-text,676,1957611,33774.32999992743,"",,,,,,{"Q0":"peach"}
+html-keyboard-response,677,1958519,905.3950000088662,"<div style=""font-size:48px;"">Press any key to begin list 11 of 24 </div>",32,,,,,
+html-keyboard-response,678,1961034,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,679,1961551,null,"TERMITE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,680,1963064,null,"TERMITE",null,word,,, 'TERMITE',
+html-keyboard-response,681,1963580,null,"DOCK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,682,1965097,null,"DOCK",null,word,,, 'DOCK',
+html-keyboard-response,683,1965614,null,"EAGLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,684,1967120,null,"EAGLE",null,word,,, 'EAGLE',
+html-keyboard-response,685,1967622,null,"SHAMPOO<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,686,1969128,null,"SHAMPOO",null,word,,, 'SHAMPOO',
+html-keyboard-response,687,1969642,null,"ARMY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,688,1971152,null,"ARMY",null,word,,, 'ARMY',
+html-keyboard-response,689,1971655,null,"MISSILE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,690,1973160,null,"MISSILE",null,word,,, 'MISSILE',
+html-keyboard-response,691,1973675,null,"SLUG<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,692,1975189,null,"SLUG",null,word,,, 'SLUG',
+html-keyboard-response,693,1975702,null,"BURGLAR<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,694,1977219,null,"BURGLAR",null,word,,, 'BURGLAR',
+html-keyboard-response,695,1977721,null,"CREATURE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,696,1979230,null,"CREATURE",null,word,,, 'CREATURE',
+html-keyboard-response,697,1979744,null,"SUPPER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,698,1981258,null,"SUPPER",null,word,,, 'SUPPER',
+html-keyboard-response,699,1981760,null,"MESSAGE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,700,1983266,null,"MESSAGE",null,word,,, 'MESSAGE',
+html-keyboard-response,701,1983779,null,"MATCH<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,702,1985291,null,"MATCH",null,word,,, 'MATCH',
+html-keyboard-response,703,1985803,null,"FIREMAN<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,704,1987315,null,"FIREMAN",null,word,,, 'FIREMAN',
+html-keyboard-response,705,1987831,null,"FOUNTAIN<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,706,1989341,null,"FOUNTAIN",null,word,,, 'FOUNTAIN',
+html-keyboard-response,707,1989843,null,"TURNIP<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,708,1991353,null,"TURNIP",null,word,,, 'TURNIP',
+html-keyboard-response,709,1991868,null,"SALAD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,710,1993379,null,"SALAD",null,word,,, 'SALAD',
+html-keyboard-response,711,1993882,null,"GAVEL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,712,1995400,null,"GAVEL",null,word,,, 'GAVEL',
+html-keyboard-response,713,1995915,null,"MAILBOX<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,714,1997424,null,"MAILBOX",null,word,,, 'MAILBOX',
+survey-text,715,2001094,3665.0799999479204,"",,,,,,{"Q0":"2"}
+survey-text,716,2002231,1134.665000019595,"",,,,,,{"Q0":"6"}
+survey-text,717,2003202,966.6250000009313,"",,,,,,{"Q0":"3"}
+survey-text,718,2004743,1535.7950000325218,"",,,,,,{"Q0":"4"}
+survey-text,719,2007438,2691.415000008419,"",,,,,,{"Q0":"5"}
+survey-text,720,2009066,1624.6200000168756,"",,,,,,{"Q0":"5"}
+survey-text,721,2009964,892.7050000056624,"",,,,,,{"Q0":"5"}
+survey-text,722,2010756,788.4750000666827,"",,,,,,{"Q0":"5"}
+survey-text,723,2011832,1071.0899999830872,"",,,,,,{"Q0":"3"}
+survey-text,724,2012899,1063.1600000197068,"",,,,,,{"Q0":"5"}
+survey-text,725,2013756,854.605000000447,"",,,,,,{"Q0":"5"}
+survey-text,726,2015638,1877.4650000268593,"",,,,,,{"Q0":"2"}
+survey-text,727,2017583,1940.5650000553578,"",,,,,,{"Q0":"2"}
+survey-text,728,2018975,1388.0849999841303,"",,,,,,{"Q0":"5"}
+survey-text,729,2020428,1448.450000025332,"",,,,,,{"Q0":"2"}
+survey-text,730,2022852,2418.650000006892,"",,,,,,{"Q0":"4"}
+survey-text,731,2027673,4816.134999971837,"",,,,,,{"Q0":"termite"}
+survey-text,732,2028702,1023.8050000043586,"",,,,,,{"Q0":"dock"}
+survey-text,733,2032648,3941.950000007637,"",,,,,,{"Q0":"eagle"}
+survey-text,734,2041269,8616.350000025705,"",,,,,,{"Q0":"army"}
+survey-text,735,2046386,5112.330000032671,"",,,,,,{"Q0":"missile "}
+survey-text,736,2049888,3497.8050000499934,"",,,,,,{"Q0":"slug"}
+survey-text,737,2058126,8233.059999998659,"",,,,,,{"Q0":"burglar "}
+survey-text,738,2064557,6426.729999948293,"",,,,,,{"Q0":"creature "}
+survey-text,739,2073899,9337.015000055544,"",,,,,,{"Q0":"match "}
+survey-text,740,2078766,4862.574999919161,"",,,,,,{"Q0":"mailbox "}
+survey-text,741,2082633,3863.1400000303984,"",,,,,,{"Q0":"fireman"}
+survey-text,742,2084142,1504.274999955669,"",,,,,,{"Q0":"fountain"}
+survey-text,743,2086814,2668.08500001207,"",,,,,,{"Q0":"turnip"}
+survey-text,744,2088318,1500.4549999721348,"",,,,,,{"Q0":"salad"}
+survey-text,745,2094415,6091.84499992989,"",,,,,,{"Q0":"gavel "}
+survey-text,746,2127006,32587.54500001669,"",,,,,,{"Q0":"dock"}
+html-keyboard-response,747,2127707,699.0950000472367,"<div style=""font-size:48px;"">Press any key to begin list 12 of 24 </div>",32,,,,,
+html-keyboard-response,748,2130224,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,749,2130728,null,"LOBBY<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,750,2132242,null,"LOBBY",null,word,,, 'LOBBY',
+html-keyboard-response,751,2132756,null,"BEAST<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,752,2134265,null,"BEAST",null,word,,, 'BEAST',
+html-keyboard-response,753,2134767,null,"FOREST<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,754,2136273,null,"FOREST",null,word,,, 'FOREST',
+html-keyboard-response,755,2136787,null,"TWIG<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,756,2138299,null,"TWIG",null,word,,, 'TWIG',
+html-keyboard-response,757,2138802,null,"MATTRESS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,758,2140307,null,"MATTRESS",null,word,,, 'MATTRESS',
+html-keyboard-response,759,2140822,null,"PADDING<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,760,2142331,null,"PADDING",null,word,,, 'PADDING',
+html-keyboard-response,761,2142403,69.22999990638345,"BELT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,762,2143906,null,"BELT",null,word,,, 'BELT',
+html-keyboard-response,763,2144419,null,"PISTOL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,764,2145927,null,"PISTOL",null,word,,, 'PISTOL',
+html-keyboard-response,765,2146441,null,"PARROT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,766,2147953,null,"PARROT",null,word,,, 'PARROT',
+html-keyboard-response,767,2148467,null,"CONCERT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,768,2149981,null,"CONCERT",null,word,,, 'CONCERT',
+html-keyboard-response,769,2150496,null,"FOOTBALL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,770,2152010,null,"FOOTBALL",null,word,,, 'FOOTBALL',
+html-keyboard-response,771,2152523,null,"VIKING<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,772,2154036,null,"VIKING",null,word,,, 'VIKING',
+html-keyboard-response,773,2154549,null,"PORPOISE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,774,2156062,null,"PORPOISE",null,word,,, 'PORPOISE',
+html-keyboard-response,775,2156577,null,"REINDEER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,776,2158087,null,"REINDEER",null,word,,, 'REINDEER',
+html-keyboard-response,777,2158601,null,"HERO<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,778,2160113,null,"HERO",null,word,,, 'HERO',
+html-keyboard-response,779,2160627,null,"HIKER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,780,2162141,null,"HIKER",null,word,,, 'HIKER',
+html-keyboard-response,781,2162654,null,"INFANT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,782,2164166,null,"INFANT",null,word,,, 'INFANT',
+html-keyboard-response,783,2164680,null,"SEAL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,784,2166188,null,"SEAL",null,word,,, 'SEAL',
+survey-text,785,2168966,2772.4200000520796,"",,,,,,{"Q0":"1"}
+survey-text,786,2170015,1043.3800000464544,"",,,,,,{"Q0":"2"}
+survey-text,787,2171055,1036.9749999372289,"",,,,,,{"Q0":"4"}
+survey-text,788,2173808,2749.470000038855,"",,,,,,{"Q0":"2"}
+survey-text,789,2175762,1949.3849999271333,"",,,,,,{"Q0":"4"}
+survey-text,790,2176676,909.1750000370666,"",,,,,,{"Q0":"3"}
+survey-text,791,2177676,997.5049999775365,"",,,,,,{"Q0":"3"}
+survey-text,792,2179764,2084.789999993518,"",,,,,,{"Q0":"0"}
+survey-text,793,2181396,1627.8450000099838,"",,,,,,{"Q0":"5"}
+survey-text,794,2183037,1635.6249999953434,"",,,,,,{"Q0":"0"}
+survey-text,795,2185571,2529.7199999913573,"",,,,,,{"Q0":"4"}
+survey-text,796,2187352,1775.759999989532,"",,,,,,{"Q0":"3"}
+survey-text,797,2188475,1119.204999995418,"",,,,,,{"Q0":"3"}
+survey-text,798,2190346,1865.3299999423325,"",,,,,,{"Q0":"4"}
+survey-text,799,2193102,2749.6749999700114,"",,,,,,{"Q0":"lobby"}
+survey-text,800,2196289,3180.6349999969825,"",,,,,,{"Q0":"monster "}
+survey-text,801,2218279,21985.55999994278,"",,,,,,{"Q0":"porpoise "}
+survey-text,802,2221378,3094.2800000775605,"",,,,,,{"Q0":"reindeer"}
+survey-text,803,2275421,54038.5299999034,"",,,,,,{"Q0":"volleyball"}
+html-keyboard-response,804,2338636,63214.154999936,"<div style=""font-size:48px;"">Press any key to begin list 13 of 24 </div>",32,,,,,
+html-keyboard-response,805,2341154,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,806,2341667,null,"PORT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,807,2343180,null,"PORT",null,word,,, 'PORT',
+html-keyboard-response,808,2343682,null,"PRISON<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,809,2345193,null,"PRISON",null,word,,, 'PRISON',
+html-keyboard-response,810,2345696,null,"TROPHY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,811,2347204,null,"TROPHY",null,word,,, 'TROPHY',
+html-keyboard-response,812,2347716,null,"SHINGLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,813,2349229,null,"SHINGLE",null,word,,, 'SHINGLE',
+html-keyboard-response,814,2349731,null,"CHICKEN<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,815,2351237,null,"CHICKEN",null,word,,, 'CHICKEN',
+html-keyboard-response,816,2351740,null,"BOUILLON<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,817,2353249,null,"BOUILLON",null,word,,, 'BOUILLON',
+html-keyboard-response,818,2353751,null,"HANDCUFFS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,819,2355261,null,"HANDCUFFS",null,word,,, 'HANDCUFFS',
+html-keyboard-response,820,2355774,null,"COOKIE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,821,2357288,null,"COOKIE",null,word,,, 'COOKIE',
+html-keyboard-response,822,2357790,null,"SAUCER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,823,2359293,null,"SAUCER",null,word,,, 'SAUCER',
+html-keyboard-response,824,2359438,143.4649999719113,"UMPIRE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",32,word_square,0,SPACEBAR,,
+html-keyboard-response,825,2360945,null,"UMPIRE",null,word,,, 'UMPIRE',
+html-keyboard-response,826,2361458,null,"ORCHID<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,827,2362972,null,"ORCHID",null,word,,, 'ORCHID',
+html-keyboard-response,828,2363488,null,"CHEMIST<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,829,2364996,null,"CHEMIST",null,word,,, 'CHEMIST',
+html-keyboard-response,830,2365510,null,"TREASURE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,831,2367022,null,"TREASURE",null,word,,, 'TREASURE',
+html-keyboard-response,832,2367537,null,"GRASS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,833,2369047,null,"GRASS",null,word,,, 'GRASS',
+html-keyboard-response,834,2369558,null,"LANDSCAPE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,835,2371070,null,"LANDSCAPE",null,word,,, 'LANDSCAPE',
+html-keyboard-response,836,2371585,null,"RUBY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,837,2373092,null,"RUBY",null,word,,, 'RUBY',
+html-keyboard-response,838,2373605,null,"DOORBELL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,839,2375115,null,"DOORBELL",null,word,,, 'DOORBELL',
+html-keyboard-response,840,2375630,null,"ELK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,841,2377139,null,"ELK",null,word,,, 'ELK',
+survey-text,842,2379795,2652.6300000259653,"",,,,,,{"Q0":"1"}
+survey-text,843,2381061,1262.345000053756,"",,,,,,{"Q0":"2"}
+survey-text,844,2382820,1754.7250000061467,"",,,,,,{"Q0":"2"}
+survey-text,845,2384919,2093.7599999597296,"",,,,,,{"Q0":"4"}
+survey-text,846,2386366,1442.4150000559166,"",,,,,,{"Q0":"3"}
+survey-text,847,2390771,4400.314999977127,"",,,,,,{"Q0":"6"}
+survey-text,848,2393494,2718.959999969229,"",,,,,,{"Q0":"1"}
+survey-text,849,2394457,958.0200000200421,"",,,,,,{"Q0":"2"}
+survey-text,850,2395337,875.4049999406561,"",,,,,,{"Q0":"2"}
+survey-text,851,2396941,1600.5549998953938,"",,,,,,{"Q0":"5"}
+survey-text,852,2398057,1111.655000015162,"",,,,,,{"Q0":"6"}
+survey-text,853,2399368,1305.4100000299513,"",,,,,,{"Q0":"3"}
+survey-text,854,2402799,3426.134999957867,"",,,,,,{"Q0":"3"}
+survey-text,855,2405413,2608.9149999897927,"",,,,,,{"Q0":"port "}
+survey-text,856,2406856,1438.4899999713525,"",,,,,,{"Q0":"prison"}
+survey-text,857,2409476,2615.0249999482185,"",,,,,,{"Q0":"trophy"}
+survey-text,858,2413396,3915.2999999932945,"",,,,,,{"Q0":"handcuffs "}
+survey-text,859,2434007,20606.970000080764,"",,,,,,{"Q0":"doorbell"}
+survey-text,860,2435202,1191.0650000208989,"",,,,,,{"Q0":"elk"}
+survey-text,861,2439187,3980.5349999805912,"",,,,,,{"Q0":"chemist"}
+survey-text,862,2443035,3843.790000071749,"",,,,,,{"Q0":"orchid"}
+survey-text,863,2447798,4758.780000032857,"",,,,,,{"Q0":"tulips "}
+survey-text,864,2456777,8975.23999994155,"",,,,,,{"Q0":"landscape"}
+survey-text,865,2458221,1438.910000026226,"",,,,,,{"Q0":"treasure"}
+survey-text,866,2459840,1617.0050000073388,"",,,,,,{"Q0":"ruby"}
+survey-text,867,2461231,1385.7350000180304,"",,,,,,{"Q0":"grass"}
+survey-text,868,2472531,11296.910000033677,"",,,,,,{"Q0":"cookie"}
+survey-text,869,2474961,2425.5199999315664,"",,,,,,{"Q0":"saucer "}
+survey-text,870,2481050,6084.535000030883,"",,,,,,{"Q0":"gardener "}
+html-keyboard-response,871,2485799,4747.139999992214,"<div style=""font-size:48px;"">Press any key to begin list 14 of 24 </div>",32,,,,,
+html-keyboard-response,872,2488318,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,873,2488833,null,"HEEL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,874,2490345,null,"HEEL",null,word,,, 'HEEL',
+html-keyboard-response,875,2490848,null,"PICKLE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,876,2492355,null,"PICKLE",null,word,,, 'PICKLE',
+html-keyboard-response,877,2492859,null,"MARKER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,878,2494365,null,"MARKER",null,word,,, 'MARKER',
+html-keyboard-response,879,2494878,null,"COLUMN<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,880,2496394,null,"COLUMN",null,word,,, 'COLUMN',
+html-keyboard-response,881,2496908,null,"SHOELACE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,882,2498420,null,"SHOELACE",null,word,,, 'SHOELACE',
+html-keyboard-response,883,2498923,null,"STAPLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,884,2500430,null,"STAPLE",null,word,,, 'STAPLE',
+html-keyboard-response,885,2500933,null,"MARBLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,886,2502439,null,"MARBLE",null,word,,, 'MARBLE',
+html-keyboard-response,887,2502943,null,"SKUNK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,888,2504452,null,"SKUNK",null,word,,, 'SKUNK',
+html-keyboard-response,889,2504954,null,"DOG<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,890,2506460,null,"DOG",null,word,,, 'DOG',
+html-keyboard-response,891,2506976,null,"RODENT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,892,2508489,null,"RODENT",null,word,,, 'RODENT',
+html-keyboard-response,893,2508992,null,"WRITER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,894,2510498,null,"WRITER",null,word,,, 'WRITER',
+html-keyboard-response,895,2511011,null,"SPOON<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,896,2512523,null,"SPOON",null,word,,, 'SPOON',
+html-keyboard-response,897,2513039,null,"LIZARD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,898,2514550,null,"LIZARD",null,word,,, 'LIZARD',
+html-keyboard-response,899,2515062,null,"SUITE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,900,2516578,null,"SUITE",null,word,,, 'SUITE',
+html-keyboard-response,901,2517092,null,"BLADE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,902,2518596,null,"BLADE",null,word,,, 'BLADE',
+html-keyboard-response,903,2519099,null,"COLLEGE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,904,2520604,null,"COLLEGE",null,word,,, 'COLLEGE',
+html-keyboard-response,905,2521107,null,"CHARCOAL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,906,2522609,null,"CHARCOAL",null,word,,, 'CHARCOAL',
+html-keyboard-response,907,2523123,null,"TORCH<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,908,2524633,null,"TORCH",null,word,,, 'TORCH',
+survey-text,909,2528314,3675.969999982044,"",,,,,,{"Q0":"3"}
+survey-text,910,2529548,1228.9449999807402,"",,,,,,{"Q0":"5"}
+survey-text,911,2531375,1822.7500000502914,"",,,,,,{"Q0":"4"}
+survey-text,912,2532673,1294.5299999555573,"",,,,,,{"Q0":"1"}
+survey-text,913,2533842,1164.8699999786913,"",,,,,,{"Q0":"5"}
+survey-text,914,2535626,1779.5250000199303,"",,,,,,{"Q0":"4"}
+survey-text,915,2536916,1285.4300000471994,"",,,,,,{"Q0":"2"}
+survey-text,916,2538088,1166.3299999199808,"",,,,,,{"Q0":"4"}
+survey-text,917,2539852,1761.0100000165403,"",,,,,,{"Q0":"0"}
+survey-text,918,2540955,1099.030000041239,"",,,,,,{"Q0":"4"}
+survey-text,919,2542378,1420.6949999788776,"",,,,,,{"Q0":"5"}
+survey-text,920,2544330,1947.924999985844,"",,,,,,{"Q0":"4"}
+survey-text,921,2546070,1735.829999903217,"",,,,,,{"Q0":"0"}
+survey-text,922,2547109,1034.4599999953061,"",,,,,,{"Q0":"3"}
+survey-text,923,2550051,2937.1350000146776,"",,,,,,{"Q0":"2"}
+survey-text,924,2570946,20889.46999993641,"",,,,,,{"Q0":"marble"}
+survey-text,925,2572540,1589.7249999688938,"",,,,,,{"Q0":"skunk"}
+survey-text,926,2573976,1431.2499999068677,"",,,,,,{"Q0":"dog"}
+survey-text,927,2575096,1114.4050000002608,"",,,,,,{"Q0":"rodent"}
+survey-text,928,2583819,8718.735000002198,"",,,,,,{"Q0":"lizard"}
+survey-text,929,2584847,1023.8599999574944,"",,,,,,{"Q0":"suite"}
+survey-text,930,2590013,5161.785000003874,"",,,,,,{"Q0":"dagger "}
+survey-text,931,2597498,7481.350000016391,"",,,,,,{"Q0":"charcoal"}
+survey-text,932,2599871,2368.7049999134615,"",,,,,,{"Q0":"torch "}
+survey-text,933,2607031,7156.425000051968,"",,,,,,{"Q0":"staple"}
+survey-text,934,2609277,2240.4949999181554,"",,,,,,{"Q0":"shoelace"}
+survey-text,935,2645198,35916.23500001151,"",,,,,,{"Q0":"iguana"}
+html-keyboard-response,936,2646242,1042.4399999901652,"<div style=""font-size:48px;"">Press any key to begin list 15 of 24 </div>",32,,,,,
+html-keyboard-response,937,2648756,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,938,2649271,null,"BUTLER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,939,2650784,null,"BUTLER",null,word,,, 'BUTLER',
+html-keyboard-response,940,2651301,null,"CANAL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,941,2652814,null,"CANAL",null,word,,, 'CANAL',
+html-keyboard-response,942,2653328,null,"ROBIN<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,943,2654829,null,"ROBIN",null,word,,, 'ROBIN',
+html-keyboard-response,944,2655332,null,"PLAQUE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,945,2656840,null,"PLAQUE",null,word,,, 'PLAQUE',
+html-keyboard-response,946,2657351,null,"TOOTHPASTE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,947,2658857,null,"TOOTHPASTE",null,word,,, 'TOOTHPASTE',
+html-keyboard-response,948,2659360,null,"SOLDIER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,949,2660867,null,"SOLDIER",null,word,,, 'SOLDIER',
+html-keyboard-response,950,2661380,null,"JEEP<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,951,2662895,null,"JEEP",null,word,,, 'JEEP',
+html-keyboard-response,952,2663398,null,"PAVEMENT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,953,2664910,null,"PAVEMENT",null,word,,, 'PAVEMENT',
+html-keyboard-response,954,2665424,null,"BLOCKADE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,955,2666937,null,"BLOCKADE",null,word,,, 'BLOCKADE',
+html-keyboard-response,956,2667450,null,"RAZOR<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,957,2668961,null,"RAZOR",null,word,,, 'RAZOR',
+html-keyboard-response,958,2669463,null,"BOULDER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,959,2670981,null,"BOULDER",null,word,,, 'BOULDER',
+html-keyboard-response,960,2671494,null,"SCAPEGOAT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,961,2673007,null,"SCAPEGOAT",null,word,,, 'SCAPEGOAT',
+html-keyboard-response,962,2673510,null,"CAPTIVE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,963,2675021,null,"CAPTIVE",null,word,,, 'CAPTIVE',
+html-keyboard-response,964,2675534,null,"WALRUS<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,965,2677048,null,"WALRUS",null,word,,, 'WALRUS',
+html-keyboard-response,966,2677563,null,"WAREHOUSE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,967,2679066,null,"WAREHOUSE",null,word,,, 'WAREHOUSE',
+html-keyboard-response,968,2679581,null,"MANSION<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,969,2681084,null,"MANSION",null,word,,, 'MANSION',
+html-keyboard-response,970,2681587,null,"CATCHER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,971,2683091,null,"CATCHER",null,word,,, 'CATCHER',
+html-keyboard-response,972,2683604,null,"BATHROOM<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,973,2685116,null,"BATHROOM",null,word,,, 'BATHROOM',
+survey-text,974,2686401,1280.4149999283254,"",,,,,,{"Q0":"3"}
+survey-text,975,2687856,1450.7799999555573,"",,,,,,{"Q0":"2"}
+survey-text,976,2690059,2196.8650000635535,"",,,,,,{"Q0":"0"}
+survey-text,977,2690860,796.2350000161678,"",,,,,,{"Q0":"2"}
+survey-text,978,2692020,1157.1149999508634,"",,,,,,{"Q0":"2"}
+survey-text,979,2693959,1934.305000002496,"",,,,,,{"Q0":"5"}
+survey-text,980,2695346,1383.9950000401586,"",,,,,,{"Q0":"4"}
+survey-text,981,2696405,1052.6199999731034,"",,,,,,{"Q0":"3"}
+survey-text,982,2697538,1128.6350000882521,"",,,,,,{"Q0":"4"}
+survey-text,983,2699129,1583.4399999585003,"",,,,,,{"Q0":"6"}
+survey-text,984,2700611,1477.2700000321493,"",,,,,,{"Q0":"3"}
+survey-text,985,2701964,1346.114999963902,"",,,,,,{"Q0":"2"}
+survey-text,986,2704588,2619.7949999477714,"",,,,,,{"Q0":"4"}
+survey-text,987,2708439,3847.345000016503,"",,,,,,{"Q0":"2"}
+survey-text,988,2710587,2143.8650001073256,"",,,,,,{"Q0":"2"}
+survey-text,989,2713169,2577.03499996569,"",,,,,,{"Q0":"butler "}
+survey-text,990,2728255,15081.119999988005,"",,,,,,{"Q0":"stream "}
+survey-text,991,2747326,19067.669999902137,"",,,,,,{"Q0":"forest "}
+survey-text,992,2753754,6422.795000020415,"",,,,,,{"Q0":"jeep"}
+survey-text,993,2755220,1459.1850000433624,"",,,,,,{"Q0":"pavement"}
+survey-text,994,2757401,2176.3499999651685,"",,,,,,{"Q0":"blockade"}
+survey-text,995,2758728,1321.6649999376386,"",,,,,,{"Q0":"razor"}
+survey-text,996,2762547,3814.9249999551103,"",,,,,,{"Q0":"boulder"}
+survey-text,997,2765082,2531.695000012405,"",,,,,,{"Q0":"warehouse"}
+survey-text,998,2767176,2089.215000043623,"",,,,,,{"Q0":"mansion"}
+survey-text,999,2770450,3269.2299999762326,"",,,,,,{"Q0":"catcher"}
+survey-text,1000,2772175,1721.83000005316,"",,,,,,{"Q0":"bathroom"}
+survey-text,1001,2776666,4486.730000004172,"",,,,,,{"Q0":"robin "}
+survey-text,1002,2805372,28701.67500001844,"",,,,,,{"Q0":"road "}
+html-keyboard-response,1003,2806187,813.6299999896437,"<div style=""font-size:48px;"">Press any key to begin list 16 of 24 </div>",32,,,,,
+html-keyboard-response,1004,2808710,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,1005,2809213,null,"SQUIRREL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1006,2810717,null,"SQUIRREL",null,word,,, 'SQUIRREL',
+html-keyboard-response,1007,2811230,null,"DRAWING<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1008,2812741,null,"DRAWING",null,word,,, 'DRAWING',
+html-keyboard-response,1009,2813244,null,"MARROW<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1010,2814750,null,"MARROW",null,word,,, 'MARROW',
+html-keyboard-response,1011,2815253,null,"SPRINKLE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1012,2816762,null,"SPRINKLE",null,word,,, 'SPRINKLE',
+html-keyboard-response,1013,2817273,null,"PORCH<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1014,2818784,null,"PORCH",null,word,,, 'PORCH',
+html-keyboard-response,1015,2819288,null,"COLESLAW<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1016,2820794,null,"COLESLAW",null,word,,, 'COLESLAW',
+html-keyboard-response,1017,2821296,null,"STRANGER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1018,2822804,null,"STRANGER",null,word,,, 'STRANGER',
+html-keyboard-response,1019,2823320,null,"PEOPLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1020,2824835,null,"PEOPLE",null,word,,, 'PEOPLE',
+html-keyboard-response,1021,2825337,null,"BUCKLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1022,2826850,null,"BUCKLE",null,word,,, 'BUCKLE',
+html-keyboard-response,1023,2827353,null,"SERVANT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1024,2828861,null,"SERVANT",null,word,,, 'SERVANT',
+html-keyboard-response,1025,2829374,null,"ALMOND<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1026,2830884,null,"ALMOND",null,word,,, 'ALMOND',
+html-keyboard-response,1027,2831388,null,"SLEEVE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1028,2832901,null,"SLEEVE",null,word,,, 'SLEEVE',
+html-keyboard-response,1029,2833412,null,"FAUCET<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1030,2834929,null,"FAUCET",null,word,,, 'FAUCET',
+html-keyboard-response,1031,2835443,null,"OCEAN<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1032,2836958,null,"OCEAN",null,word,,, 'OCEAN',
+html-keyboard-response,1033,2837460,null,"BEETLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1034,2838970,null,"BEETLE",null,word,,, 'BEETLE',
+html-keyboard-response,1035,2839485,null,"ROACH<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1036,2840999,null,"ROACH",null,word,,, 'ROACH',
+html-keyboard-response,1037,2841502,null,"TAVERN<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1038,2843010,null,"TAVERN",null,word,,, 'TAVERN',
+html-keyboard-response,1039,2843524,null,"CATTLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1040,2845030,null,"CATTLE",null,word,,, 'CATTLE',
+survey-text,1041,2846536,1500.6800000555813,"",,,,,,{"Q0":"4"}
+survey-text,1042,2849572,3032.9599999822676,"",,,,,,{"Q0":"2"}
+survey-text,1043,2850390,813.2600000826642,"",,,,,,{"Q0":"2"}
+survey-text,1044,2851866,1471.5500000165775,"",,,,,,{"Q0":"4"}
+survey-text,1045,2853009,1139.2449999693781,"",,,,,,{"Q0":"4"}
+survey-text,1046,2854671,1658.0100000137463,"",,,,,,{"Q0":"2"}
+survey-text,1047,2855878,1203.2050000270829,"",,,,,,{"Q0":"1"}
+survey-text,1048,2857538,1655.324999941513,"",,,,,,{"Q0":"5"}
+survey-text,1049,2859111,1568.7349999789149,"",,,,,,{"Q0":"2"}
+survey-text,1050,2860805,1688.9550000196323,"",,,,,,{"Q0":"2"}
+survey-text,1051,2862353,1545.0999999884516,"",,,,,,{"Q0":"3"}
+survey-text,1052,2863330,973.3900000574067,"",,,,,,{"Q0":"2"}
+survey-text,1053,2865116,1783.449999988079,"",,,,,,{"Q0":"1"}
+survey-text,1054,2867002,1881.580000044778,"",,,,,,{"Q0":"5"}
+survey-text,1055,2868023,1017.4700000789016,"",,,,,,{"Q0":"3"}
+survey-text,1056,2869567,1541.2699999287724,"",,,,,,{"Q0":"5"}
+survey-text,1057,2874848,5275.635000085458,"",,,,,,{"Q0":"squirrel "}
+survey-text,1058,2887966,13114.734999951907,"",,,,,,{"Q0":"drawing"}
+survey-text,1059,2889518,1547.469999990426,"",,,,,,{"Q0":"porch"}
+survey-text,1060,2891556,2034.3000000575557,"",,,,,,{"Q0":"coleslaw"}
+survey-text,1061,2893138,1576.535000000149,"",,,,,,{"Q0":"stranger"}
+survey-text,1062,2894845,1701.839999994263,"",,,,,,{"Q0":"people "}
+survey-text,1063,2901320,6471.159999957308,"",,,,,,{"Q0":"walnut"}
+survey-text,1064,2902651,1324.5950000127777,"",,,,,,{"Q0":"sleeve"}
+survey-text,1065,2908751,6093.295000027865,"",,,,,,{"Q0":"ocean"}
+survey-text,1066,2910180,1424.0999999456108,"",,,,,,{"Q0":"faucet"}
+survey-text,1067,2919945,9760.535000008531,"",,,,,,{"Q0":"beetle"}
+survey-text,1068,2922374,2425.5999999586493,"",,,,,,{"Q0":"roach"}
+survey-text,1069,2924002,1622.2650000127032,"",,,,,,{"Q0":"tavern "}
+survey-text,1070,2931681,7673.030000063591,"",,,,,,{"Q0":"cattle "}
+survey-text,1071,2949579,17892.67500001006,"",,,,,,{"Q0":"pecan "}
+html-keyboard-response,1072,2950440,859.29000005126,"<div style=""font-size:48px;"">Press any key to begin list 17 of 24 </div>",32,,,,,
+html-keyboard-response,1073,2952948,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,1074,2953462,null,"JACKET<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1075,2954975,null,"JACKET",null,word,,, 'JACKET',
+html-keyboard-response,1076,2955491,null,"PLUM<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1077,2957001,null,"PLUM",null,word,,, 'PLUM',
+html-keyboard-response,1078,2957515,null,"NEEDLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1079,2959027,null,"NEEDLE",null,word,,, 'NEEDLE',
+html-keyboard-response,1080,2959531,null,"HAYSTACK<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1081,2961049,null,"HAYSTACK",null,word,,, 'HAYSTACK',
+html-keyboard-response,1082,2961563,null,"DRESSER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1083,2963073,null,"DRESSER",null,word,,, 'DRESSER',
+html-keyboard-response,1084,2963588,null,"RAILROAD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1085,2965100,null,"RAILROAD",null,word,,, 'RAILROAD',
+html-keyboard-response,1086,2965602,null,"SHEARS<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1087,2967113,null,"SHEARS",null,word,,, 'SHEARS',
+html-keyboard-response,1088,2967627,null,"PITCHFORK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1089,2969140,null,"PITCHFORK",null,word,,, 'PITCHFORK',
+html-keyboard-response,1090,2969643,null,"FARM<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1091,2971150,null,"FARM",null,word,,, 'FARM',
+html-keyboard-response,1092,2971662,null,"ANCHOR<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1093,2973175,null,"ANCHOR",null,word,,, 'ANCHOR',
+html-keyboard-response,1094,2973690,null,"LIST<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1095,2975201,null,"LIST",null,word,,, 'LIST',
+html-keyboard-response,1096,2975716,null,"KITTEN<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1097,2977226,null,"KITTEN",null,word,,, 'KITTEN',
+html-keyboard-response,1098,2977730,null,"LEADER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1099,2979236,null,"LEADER",null,word,,, 'LEADER',
+html-keyboard-response,1100,2979748,null,"BRIEFCASE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1101,2981254,null,"BRIEFCASE",null,word,,, 'BRIEFCASE',
+html-keyboard-response,1102,2981729,472.85000002011657,"COCOON<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,1103,2983234,null,"COCOON",null,word,,, 'COCOON',
+html-keyboard-response,1104,2983748,null,"SQUID<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1105,2985260,null,"SQUID",null,word,,, 'SQUID',
+html-keyboard-response,1106,2985774,null,"SNORKEL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1107,2987277,null,"SNORKEL",null,word,,, 'SNORKEL',
+html-keyboard-response,1108,2987791,null,"THICKET<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1109,2989308,null,"THICKET",null,word,,, 'THICKET',
+survey-text,1110,2991448,2135.4750000173226,"",,,,,,{"Q0":"2"}
+survey-text,1111,2992754,1300.9349999483675,"",,,,,,{"Q0":"2"}
+survey-text,1112,2994682,1923.8699999405071,"",,,,,,{"Q0":"3"}
+survey-text,1113,2995862,1174.8449999140576,"",,,,,,{"Q0":"5"}
+survey-text,1114,2997296,1429.0800000308082,"",,,,,,{"Q0":"2"}
+survey-text,1115,2999929,2628.43000004068,"",,,,,,{"Q0":"3"}
+survey-text,1116,3000968,1033.7000000290573,"",,,,,,{"Q0":"3"}
+survey-text,1117,3002302,1329.4849999947473,"",,,,,,{"Q0":"1"}
+survey-text,1118,3003308,998.9050000440329,"",,,,,,{"Q0":"2"}
+survey-text,1119,3004481,1167.8850000025705,"",,,,,,{"Q0":"4"}
+survey-text,1120,3006405,1919.7350000031292,"",,,,,,{"Q0":"4"}
+survey-text,1121,3007470,1060.120000038296,"",,,,,,{"Q0":"3"}
+survey-text,1122,3008532,1058.8500000303611,"",,,,,,{"Q0":"4"}
+survey-text,1123,3010232,1695.9749999223277,"",,,,,,{"Q0":"2"}
+survey-text,1124,3012625,2390.2999999700114,"",,,,,,{"Q0":"3"}
+survey-text,1125,3013756,1127.7449999470264,"",,,,,,{"Q0":"3"}
+survey-text,1126,3025690,11926.915000076406,"",,,,,,{"Q0":"jacket "}
+survey-text,1127,3028487,2792.8599999286234,"",,,,,,{"Q0":"plum"}
+survey-text,1128,3038181,9688.86500003282,"",,,,,,{"Q0":"railroad "}
+survey-text,1129,3040267,2081.5099999308586,"",,,,,,{"Q0":"shears"}
+survey-text,1130,3042347,2075.360000017099,"",,,,,,{"Q0":"pitchfork"}
+survey-text,1131,3043654,1303.7500000791624,"",,,,,,{"Q0":"farm "}
+survey-text,1132,3050303,6644.395000068471,"",,,,,,{"Q0":"kitten"}
+survey-text,1133,3056734,6426.2399999424815,"",,,,,,{"Q0":"briefcase"}
+survey-text,1134,3058009,1270.7550000632182,"",,,,,,{"Q0":"leader"}
+survey-text,1135,3061570,3555.2199999801815,"",,,,,,{"Q0":"squid"}
+survey-text,1136,3067438,5863.079999922775,"",,,,,,{"Q0":"snorkel"}
+survey-text,1137,3073296,5853.735000011511,"",,,,,,{"Q0":"thicket "}
+survey-text,1138,3081469,8168.055000016466,"",,,,,,{"Q0":"needle"}
+survey-text,1139,3083710,2236.0800000606105,"",,,,,,{"Q0":"haystack "}
+survey-text,1140,3098330,14616.174999973737,"",,,,,,{"Q0":"kitten "}
+html-keyboard-response,1141,3098970,638.2100000046194,"<div style=""font-size:48px;"">Press any key to begin list 18 of 24 </div>",32,,,,,
+html-keyboard-response,1142,3101493,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,1143,3101996,null,"BAKER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1144,3103504,null,"BAKER",null,word,,, 'BAKER',
+html-keyboard-response,1145,3104007,null,"SPICE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1146,3105512,null,"SPICE",null,word,,, 'SPICE',
+html-keyboard-response,1147,3106026,null,"HOSTAGE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1148,3107535,null,"HOSTAGE",null,word,,, 'HOSTAGE',
+html-keyboard-response,1149,3108051,null,"DUNGEON<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1150,3109559,null,"DUNGEON",null,word,,, 'DUNGEON',
+html-keyboard-response,1151,3110072,null,"CRADLE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1152,3111587,null,"CRADLE",null,word,,, 'CRADLE',
+html-keyboard-response,1153,3112102,null,"COWBOY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1154,3113613,null,"COWBOY",null,word,,, 'COWBOY',
+html-keyboard-response,1155,3114127,null,"OX<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1156,3115640,null,"OX",null,word,,, 'OX',
+html-keyboard-response,1157,3116143,null,"FIGHTER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1158,3117653,null,"FIGHTER",null,word,,, 'FIGHTER',
+html-keyboard-response,1159,3118171,null,"PUPPY<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1160,3119683,null,"PUPPY",null,word,,, 'PUPPY',
+html-keyboard-response,1161,3120196,null,"MASK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1162,3121710,null,"MASK",null,word,,, 'MASK',
+html-keyboard-response,1163,3122213,null,"DRIVEWAY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1164,3123718,null,"DRIVEWAY",null,word,,, 'DRIVEWAY',
+html-keyboard-response,1165,3124220,null,"COUGAR<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1166,3125726,null,"COUGAR",null,word,,, 'COUGAR',
+html-keyboard-response,1167,3126229,null,"SNAIL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1168,3127738,null,"SNAIL",null,word,,, 'SNAIL',
+html-keyboard-response,1169,3128243,null,"SUGAR<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1170,3129747,null,"SUGAR",null,word,,, 'SUGAR',
+html-keyboard-response,1171,3130261,null,"BOTTLE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1172,3131772,null,"BOTTLE",null,word,,, 'BOTTLE',
+html-keyboard-response,1173,3132287,null,"CABLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1174,3133797,null,"CABLE",null,word,,, 'CABLE',
+html-keyboard-response,1175,3134299,null,"CONSOLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1176,3135814,null,"CONSOLE",null,word,,, 'CONSOLE',
+html-keyboard-response,1177,3136315,498.98999999277294,"CRAYON<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,1178,3137822,null,"CRAYON",null,word,,, 'CRAYON',
+survey-text,1179,3141444,3613.344999961555,"",,,,,,{"Q0":"4"}
+survey-text,1180,3143494,2045.5249999649823,"",,,,,,{"Q0":"2"}
+survey-text,1181,3146870,3370.974999968894,"",,,,,,{"Q0":"2"}
+survey-text,1182,3149122,2247.0249999314547,"",,,,,,{"Q0":"1"}
+survey-text,1183,3151402,2277.505000005476,"",,,,,,{"Q0":"4"}
+survey-text,1184,3152600,1194.4199999561533,"",,,,,,{"Q0":"5"}
+survey-text,1185,3153810,1207.5349999358878,"",,,,,,{"Q0":"1"}
+survey-text,1186,3157112,3298.4599999617785,"",,,,,,{"Q0":"3"}
+survey-text,1187,3158454,1337.1850000694394,"",,,,,,{"Q0":"4"}
+survey-text,1188,3160240,1780.629999935627,"",,,,,,{"Q0":"1"}
+survey-text,1189,3161808,1563.7700000079349,"",,,,,,{"Q0":"5"}
+survey-text,1190,3163265,1452.7200000593439,"",,,,,,{"Q0":"4"}
+survey-text,1191,3165540,2270.200000028126,"",,,,,,{"Q0":"baker"}
+survey-text,1192,3166851,1307.6850000070408,"",,,,,,{"Q0":"spices"}
+survey-text,1193,3171152,4296.074999962002,"",,,,,,{"Q0":"hostage"}
+survey-text,1194,3174250,3092.835000017658,"",,,,,,{"Q0":"dungeon "}
+survey-text,1195,3178548,4294.014999992214,"",,,,,,{"Q0":"cowboy "}
+survey-text,1196,3180562,2009.5250000013039,"",,,,,,{"Q0":"ox "}
+survey-text,1197,3185642,5075.639999937266,"",,,,,,{"Q0":"dog"}
+survey-text,1198,3187821,2175.2700000070035,"",,,,,,{"Q0":"driveway "}
+survey-text,1199,3190288,2463.2999999448657,"",,,,,,{"Q0":"cougar"}
+survey-text,1200,3191429,1136.47500006482,"",,,,,,{"Q0":"snail"}
+survey-text,1201,3198889,7454.509999952279,"",,,,,,{"Q0":"sugar"}
+survey-text,1202,3201943,3049.2050000466406,"",,,,,,{"Q0":"bottle"}
+survey-text,1203,3207084,5135.995000018738,"",,,,,,{"Q0":"crayon "}
+survey-text,1204,3214947,7858.630000031553,"",,,,,,{"Q0":"drawing "}
+survey-text,1205,3230863,15910.499999998137,"",,,,,,{"Q0":"fight "}
+survey-text,1206,3254377,23509.66499990318,"",,,,,,{"Q0":"hat"}
+html-keyboard-response,1207,3254863,484.27999997511506,"<div style=""font-size:48px;"">Press any key to begin list 19 of 24 </div>",32,,,,,
+html-keyboard-response,1208,3257383,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,1209,3257887,null,"ATTIRE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1210,3259393,null,"ATTIRE",null,word,,, 'ATTIRE',
+html-keyboard-response,1211,3259896,null,"TRUMPET<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1212,3261406,null,"TRUMPET",null,word,,, 'TRUMPET',
+html-keyboard-response,1213,3261917,null,"FOLDER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1214,3263427,null,"FOLDER",null,word,,, 'FOLDER',
+html-keyboard-response,1215,3263929,null,"CARPET<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1216,3265446,null,"CARPET",null,word,,, 'CARPET',
+html-keyboard-response,1217,3265958,null,"KEYBOARD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1218,3267466,null,"KEYBOARD",null,word,,, 'KEYBOARD',
+html-keyboard-response,1219,3267968,null,"SCHOOL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1220,3269476,null,"SCHOOL",null,word,,, 'SCHOOL',
+html-keyboard-response,1221,3269990,null,"PAINTING<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1222,3271503,null,"PAINTING",null,word,,, 'PAINTING',
+html-keyboard-response,1223,3272006,null,"CANVAS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1224,3273516,null,"CANVAS",null,word,,, 'CANVAS',
+html-keyboard-response,1225,3274030,null,"OATMEAL<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1226,3275540,null,"OATMEAL",null,word,,, 'OATMEAL',
+html-keyboard-response,1227,3276053,null,"CASHEW<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1228,3277561,null,"CASHEW",null,word,,, 'CASHEW',
+html-keyboard-response,1229,3278064,null,"COBBLER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1230,3279573,null,"COBBLER",null,word,,, 'COBBLER',
+html-keyboard-response,1231,3280086,null,"ICING<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1232,3281596,null,"ICING",null,word,,, 'ICING',
+html-keyboard-response,1233,3282099,null,"TEACHER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1234,3283605,null,"TEACHER",null,word,,, 'TEACHER',
+html-keyboard-response,1235,3284019,412.03999996650964,"HAMMER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,1236,3285536,null,"HAMMER",null,word,,, 'HAMMER',
+html-keyboard-response,1237,3286049,null,"SICKLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1238,3287561,null,"SICKLE",null,word,,, 'SICKLE',
+html-keyboard-response,1239,3287971,407.7650000108406,"AIRPLANE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,1240,3289476,null,"AIRPLANE",null,word,,, 'AIRPLANE',
+html-keyboard-response,1241,3289987,null,"CARTON<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1242,3291498,null,"CARTON",null,word,,, 'CARTON',
+html-keyboard-response,1243,3292013,null,"SAILOR<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1244,3293525,null,"SAILOR",null,word,,, 'SAILOR',
+survey-text,1245,3295900,2368.780000018887,"",,,,,,{"Q0":"0"}
+survey-text,1246,3297425,1521.2450000690296,"",,,,,,{"Q0":"6"}
+survey-text,1247,3300438,3009.595000068657,"",,,,,,{"Q0":"3"}
+survey-text,1248,3301801,1356.6750000463799,"",,,,,,{"Q0":"1"}
+survey-text,1249,3303370,1565.0450000539422,"",,,,,,{"Q0":"3"}
+survey-text,1250,3305330,1956.0599999967963,"",,,,,,{"Q0":"1"}
+survey-text,1251,3306394,1059.510000050068,"",,,,,,{"Q0":"2"}
+survey-text,1252,3307336,937.2500000754371,"",,,,,,{"Q0":"4"}
+survey-text,1253,3310927,3588.1850000005215,"",,,,,,{"Q0":"1"}
+survey-text,1254,3313020,2088.274999987334,"",,,,,,{"Q0":"4"}
+survey-text,1255,3314881,1855.1450000377372,"",,,,,,{"Q0":"3"}
+survey-text,1256,3317259,2373.7650000257418,"",,,,,,{"Q0":"2"}
+survey-text,1257,3319658,2393.3550000656396,"",,,,,,{"Q0":"1"}
+survey-text,1258,3356625,36962.88000000641,"",,,,,,{"Q0":"teacher"}
+survey-text,1259,3357557,928.4549999283627,"",,,,,,{"Q0":"hammer"}
+survey-text,1260,3358466,902.9550000559539,"",,,,,,{"Q0":"sickle"}
+survey-text,1261,3362193,3723.325000028126,"",,,,,,{"Q0":"airplane"}
+survey-text,1262,3364784,2587.199999950826,"",,,,,,{"Q0":"painting"}
+survey-text,1263,3365844,1055.7750000152737,"",,,,,,{"Q0":"canvas"}
+survey-text,1264,3367940,2089.1950000077486,"",,,,,,{"Q0":"keyboard"}
+survey-text,1265,3369767,1821.2899999925867,"",,,,,,{"Q0":"school"}
+survey-text,1266,3387952,18180.225000018254,"",,,,,,{"Q0":"attire"}
+survey-text,1267,3391673,3715.0249999249354,"",,,,,,{"Q0":"trumpet"}
+survey-text,1268,3393024,1347.2999999066815,"",,,,,,{"Q0":"carpet "}
+survey-text,1269,3438177,45149.84500000719,"",,,,,,{"Q0":"teacher"}
+html-keyboard-response,1270,3439251,1071.2350000394508,"<div style=""font-size:48px;"">Press any key to begin list 20 of 24 </div>",32,,,,,
+html-keyboard-response,1271,3441765,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,1272,3442275,null,"WRENCH<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1273,3443785,null,"WRENCH",null,word,,, 'WRENCH',
+html-keyboard-response,1274,3444295,null,"COBWEB<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1275,3445804,null,"COBWEB",null,word,,, 'COBWEB',
+html-keyboard-response,1276,3446315,null,"FIST<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1277,3447825,null,"FIST",null,word,,, 'FIST',
+html-keyboard-response,1278,3448335,null,"PUMPKIN<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1279,3449845,null,"PUMPKIN",null,word,,, 'PUMPKIN',
+html-keyboard-response,1280,3450354,null,"ATLAS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1281,3451865,null,"ATLAS",null,word,,, 'ATLAS',
+html-keyboard-response,1282,3452375,null,"MEADOW<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1283,3453885,null,"MEADOW",null,word,,, 'MEADOW',
+html-keyboard-response,1284,3454395,null,"HAMMOCK<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1285,3455905,null,"HAMMOCK",null,word,,, 'HAMMOCK',
+html-keyboard-response,1286,3456415,null,"GLACIER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1287,3457925,null,"GLACIER",null,word,,, 'GLACIER',
+html-keyboard-response,1288,3458435,null,"FROST<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1289,3459945,null,"FROST",null,word,,, 'FROST',
+html-keyboard-response,1290,3460455,null,"KNUCKLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1291,3461965,null,"KNUCKLE",null,word,,, 'KNUCKLE',
+html-keyboard-response,1292,3462474,null,"STAMP<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1293,3463984,null,"STAMP",null,word,,, 'STAMP',
+html-keyboard-response,1294,3464495,null,"MARS<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1295,3466005,null,"MARS",null,word,,, 'MARS',
+html-keyboard-response,1296,3466515,null,"ORGAN<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1297,3468025,null,"ORGAN",null,word,,, 'ORGAN',
+html-keyboard-response,1298,3468535,null,"CHAMBER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1299,3470045,null,"CHAMBER",null,word,,, 'CHAMBER',
+html-keyboard-response,1300,3470555,null,"KIWI<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1301,3472065,null,"KIWI",null,word,,, 'KIWI',
+html-keyboard-response,1302,3472585,null,"RAISIN<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1303,3474095,null,"RAISIN",null,word,,, 'RAISIN',
+html-keyboard-response,1304,3474605,null,"BEDROOM<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1305,3476115,null,"BEDROOM",null,word,,, 'BEDROOM',
+html-keyboard-response,1306,3476625,null,"STAPLER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1307,3478135,null,"STAPLER",null,word,,, 'STAPLER',
+survey-text,1308,3480321,2180.750000057742,"",,,,,,{"Q0":"5"}
+survey-text,1309,3491661,11343.044999986887,"",,,,,,{"Q0":"2"}
+survey-text,1310,3492593,927.2750000236556,"",,,,,,{"Q0":"3"}
+survey-text,1311,3493885,1286.9850000133738,"",,,,,,{"Q0":"3"}
+survey-text,1312,3495220,1328.8200000533834,"",,,,,,{"Q0":"5"}
+survey-text,1313,3496174,949.0949999308214,"",,,,,,{"Q0":"5"}
+survey-text,1314,3497742,1563.1700000958517,"",,,,,,{"Q0":"1"}
+survey-text,1315,3498724,977.4500000057742,"",,,,,,{"Q0":"4"}
+survey-text,1316,3500289,1560.0049999775365,"",,,,,,{"Q0":"2"}
+survey-text,1317,3502220,1926.6549999592826,"",,,,,,{"Q0":"5"}
+survey-text,1318,3520230,18005.585000035353,"",,,,,,{"Q0":"wrench "}
+survey-text,1319,3521960,1725.040000048466,"",,,,,,{"Q0":"cobweb"}
+survey-text,1320,3523633,1668.5199999483302,"",,,,,,{"Q0":"fist"}
+survey-text,1321,3525752,2113.800000050105,"",,,,,,{"Q0":"pumpkin"}
+survey-text,1322,3540318,14560.98499998916,"",,,,,,{"Q0":"raisin "}
+survey-text,1323,3544160,3836.089999997057,"",,,,,,{"Q0":"knuckle "}
+survey-text,1324,3549258,5092.14000008069,"",,,,,,{"Q0":"mars"}
+survey-text,1325,3551888,2616.7950000381097,"",,,,,,{"Q0":"organ"}
+survey-text,1326,3553407,1513.6650000931695,"",,,,,,{"Q0":"chamber"}
+survey-text,1327,3555460,2047.9000000050291,"",,,,,,{"Q0":"bedroom"}
+survey-text,1328,3569873,14407.43499994278,"",,,,,,{"Q0":"stapler"}
+survey-text,1329,3582285,12405.685000005178,"",,,,,,{"Q0":"oat"}
+html-keyboard-response,1330,3583263,976.7050000373274,"<div style=""font-size:48px;"">Press any key to begin list 21 of 24 </div>",32,,,,,
+html-keyboard-response,1331,3585775,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,1332,3586285,null,"WOLF<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1333,3587794,null,"WOLF",null,word,,, 'WOLF',
+html-keyboard-response,1334,3587860,64.4500000635162,"PRAIRIE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",32,word_square,0,SPACEBAR,,
+html-keyboard-response,1335,3589365,null,"PRAIRIE",null,word,,, 'PRAIRIE',
+html-keyboard-response,1336,3589875,null,"MAJOR<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1337,3591385,null,"MAJOR",null,word,,, 'MAJOR',
+html-keyboard-response,1338,3591895,null,"HAND<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1339,3593402,null,"HAND",null,word,,, 'HAND',
+html-keyboard-response,1340,3593915,null,"SAND<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1341,3595426,null,"SAND",null,word,,, 'SAND',
+html-keyboard-response,1342,3595918,489.7499999497086,"ATTIC<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,1343,3597435,null,"ATTIC",null,word,,, 'ATTIC',
+html-keyboard-response,1344,3597945,null,"DAD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1345,3599455,null,"DAD",null,word,,, 'DAD',
+html-keyboard-response,1346,3599965,null,"MOTHER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1347,3601476,null,"MOTHER",null,word,,, 'MOTHER',
+html-keyboard-response,1348,3601985,null,"FIELD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1349,3603505,null,"FIELD",null,word,,, 'FIELD',
+html-keyboard-response,1350,3604015,null,"SHACK<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1351,3605525,null,"SHACK",null,word,,, 'SHACK',
+html-keyboard-response,1352,3606035,null,"AIRPORT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1353,3607545,null,"AIRPORT",null,word,,, 'AIRPORT',
+html-keyboard-response,1354,3608054,null,"STUDENT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1355,3609565,null,"STUDENT",null,word,,, 'STUDENT',
+html-keyboard-response,1356,3610075,null,"SUNSET<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1357,3611584,null,"SUNSET",null,word,,, 'SUNSET',
+html-keyboard-response,1358,3612095,null,"GOBLIN<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1359,3613605,null,"GOBLIN",null,word,,, 'GOBLIN',
+html-keyboard-response,1360,3614116,null,"DESK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1361,3615625,null,"DESK",null,word,,, 'DESK',
+html-keyboard-response,1362,3616135,null,"SERGEANT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1363,3617643,null,"SERGEANT",null,word,,, 'SERGEANT',
+html-keyboard-response,1364,3618155,null,"VIRUS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1365,3619665,null,"VIRUS",null,word,,, 'VIRUS',
+html-keyboard-response,1366,3620175,null,"WATER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1367,3621685,null,"WATER",null,word,,, 'WATER',
+survey-text,1368,3624178,2487.684999941848,"",,,,,,{"Q0":"4"}
+survey-text,1369,3627083,2900.1850000349805,"",,,,,,{"Q0":"2"}
+survey-text,1370,3628531,1443.070000037551,"",,,,,,{"Q0":"5"}
+survey-text,1371,3630378,1842.824999941513,"",,,,,,{"Q0":"2"}
+survey-text,1372,3631633,1250.6449999054894,"",,,,,,{"Q0":"2"}
+survey-text,1373,3632670,1031.639999942854,"",,,,,,{"Q0":"3"}
+survey-text,1374,3634467,1791.8549999594688,"",,,,,,{"Q0":"2"}
+survey-text,1375,3635789,1316.800000029616,"",,,,,,{"Q0":"4"}
+survey-text,1376,3638097,2303.3799999393523,"",,,,,,{"Q0":"3"}
+survey-text,1377,3640697,2596.4799999492243,"",,,,,,{"Q0":"0"}
+survey-text,1378,3642338,1637.5899999402463,"",,,,,,{"Q0":"1"}
+survey-text,1379,3643690,1346.7950000194833,"",,,,,,{"Q0":"1"}
+survey-text,1380,3644977,1281.9499999750406,"",,,,,,{"Q0":"3"}
+survey-text,1381,3646621,1639.4800000125542,"",,,,,,{"Q0":"4"}
+survey-text,1382,3675225,28599.95499998331,"",,,,,,{"Q0":"wolf "}
+survey-text,1383,3677767,2536.019999999553,"",,,,,,{"Q0":"meadow "}
+survey-text,1384,3682732,4958.7749999482185,"",,,,,,{"Q0":"mother"}
+survey-text,1385,3684975,2238.3099999278784,"",,,,,,{"Q0":"dad"}
+survey-text,1386,3687899,2919.4099999731407,"",,,,,,{"Q0":"field"}
+survey-text,1387,3688890,983.4449999034405,"",,,,,,{"Q0":"shack"}
+survey-text,1388,3689982,1087.5050000613555,"",,,,,,{"Q0":"attic"}
+survey-text,1389,3704406,14418.109999969602,"",,,,,,{"Q0":"airport "}
+survey-text,1390,3707257,2845.175000024028,"",,,,,,{"Q0":"desk "}
+survey-text,1391,3712393,5131.624999921769,"",,,,,,{"Q0":"sergeant "}
+survey-text,1392,3726737,14338.410000083968,"",,,,,,{"Q0":"hand"}
+html-keyboard-response,1393,3727693,953.2449999824166,"<div style=""font-size:48px;"">Press any key to begin list 22 of 24 </div>",32,,,,,
+html-keyboard-response,1394,3730205,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,1395,3730715,null,"LEAF<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1396,3732225,null,"LEAF",null,word,,, 'LEAF',
+html-keyboard-response,1397,3732735,null,"CACTUS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1398,3734245,null,"CACTUS",null,word,,, 'CACTUS',
+html-keyboard-response,1399,3734755,null,"TIMBER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1400,3736265,null,"TIMBER",null,word,,, 'TIMBER',
+html-keyboard-response,1401,3736689,422.09500004537404,"INSECT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,1402,3738195,null,"INSECT",null,word,,, 'INSECT',
+html-keyboard-response,1403,3738705,null,"KETTLE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1404,3740215,null,"KETTLE",null,word,,, 'KETTLE',
+html-keyboard-response,1405,3740725,null,"PIZZA<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1406,3742235,null,"PIZZA",null,word,,, 'PIZZA',
+html-keyboard-response,1407,3742743,null,"DUSTPAN<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1408,3744254,null,"DUSTPAN",null,word,,, 'DUSTPAN',
+html-keyboard-response,1409,3744724,468.2800000300631,"SUBWAY<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,1410,3746235,null,"SUBWAY",null,word,,, 'SUBWAY',
+html-keyboard-response,1411,3746745,null,"SWATTER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1412,3748255,null,"SWATTER",null,word,,, 'SWATTER',
+html-keyboard-response,1413,3748765,null,"MERMAID<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1414,3750275,null,"MERMAID",null,word,,, 'MERMAID',
+html-keyboard-response,1415,3750785,null,"SARDINE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1416,3752295,null,"SARDINE",null,word,,, 'SARDINE',
+html-keyboard-response,1417,3752805,null,"SCOUT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1418,3754315,null,"SCOUT",null,word,,, 'SCOUT',
+html-keyboard-response,1419,3754825,null,"LADY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1420,3756335,null,"LADY",null,word,,, 'LADY',
+html-keyboard-response,1421,3756845,null,"BRACES<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1422,3758355,null,"BRACES",null,word,,, 'BRACES',
+html-keyboard-response,1423,3758864,null,"CHISEL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1424,3760375,null,"CHISEL",null,word,,, 'CHISEL',
+html-keyboard-response,1425,3760885,null,"MILDEW<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1426,3762405,null,"MILDEW",null,word,,, 'MILDEW',
+html-keyboard-response,1427,3762915,null,"TEAPOT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1428,3764425,null,"TEAPOT",null,word,,, 'TEAPOT',
+html-keyboard-response,1429,3764935,null,"FROG<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1430,3766445,null,"FROG",null,word,,, 'FROG',
+survey-text,1431,3768765,2315.6599999638274,"",,,,,,{"Q0":"5"}
+survey-text,1432,3770220,1450.0649999827147,"",,,,,,{"Q0":"1"}
+survey-text,1433,3771275,1049.6000000275671,"",,,,,,{"Q0":"2"}
+survey-text,1434,3774018,2737.609999952838,"",,,,,,{"Q0":"0"}
+survey-text,1435,3775499,1476.420000079088,"",,,,,,{"Q0":"4"}
+survey-text,1436,3776839,1335.4500000132248,"",,,,,,{"Q0":"1"}
+survey-text,1437,3778260,1417.7500000223517,"",,,,,,{"Q0":"2"}
+survey-text,1438,3779958,1693.3049999643117,"",,,,,,{"Q0":"5"}
+survey-text,1439,3781062,1100.4449999891222,"",,,,,,{"Q0":"5"}
+survey-text,1440,3782144,1077.6000000769272,"",,,,,,{"Q0":"3"}
+survey-text,1441,3783011,861.4550000056624,"",,,,,,{"Q0":"3"}
+survey-text,1442,3784756,1740.1499999687076,"",,,,,,{"Q0":"0"}
+survey-text,1443,3786648,1886.534999939613,"",,,,,,{"Q0":"`"}
+survey-text,1444,3790504,3850.6999999517575,"",,,,,,{"Q0":"2"}
+survey-text,1445,3798405,7903.79499993287,"",,,,,,{"Q0":"timber"}
+survey-text,1446,3799753,1342.3849999671802,"",,,,,,{"Q0":"insect"}
+survey-text,1447,3811065,11306.070000049658,"",,,,,,{"Q0":"mildew "}
+survey-text,1448,3816074,5004.030000069179,"",,,,,,{"Q0":"subway"}
+survey-text,1449,3818048,1967.3450000118464,"",,,,,,{"Q0":"mermaid"}
+survey-text,1450,3820175,2121.4649999747053,"",,,,,,{"Q0":"chisel"}
+survey-text,1451,3823668,3488.160000066273,"",,,,,,{"Q0":"frog"}
+survey-text,1452,3825087,1414.3349999794737,"",,,,,,{"Q0":"sardine"}
+survey-text,1453,3845577,20484.92499999702,"",,,,,,{"Q0":"braces"}
+survey-text,1454,3856598,11008.609999902546,"",,,,,,{"Q0":"pizza"}
+survey-text,1455,3858989,2386.020000092685,"",,,,,,{"Q0":"kettle"}
+survey-text,1456,3860132,1137.6750000054017,"",,,,,,{"Q0":"teapot"}
+survey-text,1457,3875423,15286.459999973886,"",,,,,,{"Q0":"sandwich "}
+html-keyboard-response,1458,3876097,671.3250000029802,"<div style=""font-size:48px;"">Press any key to begin list 23 of 24 </div>",32,,,,,
+html-keyboard-response,1459,3878615,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,1460,3879125,null,"CIRCUS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1461,3880635,null,"CIRCUS",null,word,,, 'CIRCUS',
+html-keyboard-response,1462,3881145,null,"PUPIL<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1463,3882655,null,"PUPIL",null,word,,, 'PUPIL',
+html-keyboard-response,1464,3883165,null,"AIRCRAFT<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1465,3884675,null,"AIRCRAFT",null,word,,, 'AIRCRAFT',
+html-keyboard-response,1466,3885185,null,"SURVEY<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1467,3886695,null,"SURVEY",null,word,,, 'SURVEY',
+html-keyboard-response,1468,3887206,null,"WAX<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1469,3888715,null,"WAX",null,word,,, 'WAX',
+html-keyboard-response,1470,3889225,null,"BENCH<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1471,3890736,null,"BENCH",null,word,,, 'BENCH',
+html-keyboard-response,1472,3891097,358.4799999371171,"MOUNTAIN<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",32,word_square,1,SPACEBAR,,
+html-keyboard-response,1473,3892605,null,"MOUNTAIN",null,word,,, 'MOUNTAIN',
+html-keyboard-response,1474,3893115,null,"CLIFF<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1475,3894625,null,"CLIFF",null,word,,, 'CLIFF',
+html-keyboard-response,1476,3895135,null,"BRACELET<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1477,3896645,null,"BRACELET",null,word,,, 'BRACELET',
+html-keyboard-response,1478,3897156,null,"BUILDER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1479,3898675,null,"BUILDER",null,word,,, 'BUILDER',
+html-keyboard-response,1480,3899185,null,"SHRIMP<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1481,3900695,null,"SHRIMP",null,word,,, 'SHRIMP',
+html-keyboard-response,1482,3901206,null,"LOBSTER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1483,3902725,null,"LOBSTER",null,word,,, 'LOBSTER',
+html-keyboard-response,1484,3903236,null,"BUILDING<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1485,3904745,null,"BUILDING",null,word,,, 'BUILDING',
+html-keyboard-response,1486,3905255,null,"FIREPLACE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1487,3906765,null,"FIREPLACE",null,word,,, 'FIREPLACE',
+html-keyboard-response,1488,3907275,null,"EARRING<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1489,3908785,null,"EARRING",null,word,,, 'EARRING',
+html-keyboard-response,1490,3909295,null,"BOXER<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1491,3910815,null,"BOXER",null,word,,, 'BOXER',
+html-keyboard-response,1492,3911325,null,"VICTOR<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1493,3912834,null,"VICTOR",null,word,,, 'VICTOR',
+html-keyboard-response,1494,3913345,null,"VILLAGE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1495,3914854,null,"VILLAGE",null,word,,, 'VILLAGE',
+survey-text,1496,3916010,1151.4549999265,"",,,,,,{"Q0":"3"}
+survey-text,1497,3918333,2318.955000024289,"",,,,,,{"Q0":"3"}
+survey-text,1498,3920414,2074.6199999703094,"",,,,,,{"Q0":"0"}
+survey-text,1499,3922058,1639.7750000469387,"",,,,,,{"Q0":"2"}
+survey-text,1500,3923704,1640.4249999905005,"",,,,,,{"Q0":"5"}
+survey-text,1501,3925252,1543.2700000237674,"",,,,,,{"Q0":"2"}
+survey-text,1502,3927329,2071.1649999720976,"",,,,,,{"Q0":"1"}
+survey-text,1503,3928586,1252.2650000173599,"",,,,,,{"Q0":"3"}
+survey-text,1504,3930309,1718.1900000432506,"",,,,,,{"Q0":"6"}
+survey-text,1505,3931774,1460.1950000505894,"",,,,,,{"Q0":"1"}
+survey-text,1506,3933358,1579.29999998305,"",,,,,,{"Q0":"2"}
+survey-text,1507,3934382,1019.2449999740347,"",,,,,,{"Q0":"3"}
+survey-text,1508,3937180,2792.5800000084564,"",,,,,,{"Q0":"1"}
+survey-text,1509,3940490,3304.5949999941513,"",,,,,,{"Q0":"2"}
+survey-text,1510,3946709,6213.119999971241,"",,,,,,{"Q0":"circus"}
+survey-text,1511,3948983,2269.1000000340864,"",,,,,,{"Q0":"pupil"}
+survey-text,1512,3951135,2146.4699999196455,"",,,,,,{"Q0":"aircraft "}
+survey-text,1513,3953854,2714.32500006631,"",,,,,,{"Q0":"survey"}
+survey-text,1514,3955091,1231.8649999797344,"",,,,,,{"Q0":"wax"}
+survey-text,1515,3959360,4263.770000077784,"",,,,,,{"Q0":"bench "}
+survey-text,1516,4061341,101974.55000004265,"",,,,,,{"Q0":"victor"}
+html-keyboard-response,1517,4062742,1398.5500000417233,"<div style=""font-size:48px;"">Press any key to begin list 24 of 24 </div>",32,,,,,
+html-keyboard-response,1518,4065261,null,"<div style=""font-size:60px;"">+</div>",null,,,,,
+html-keyboard-response,1519,4065768,null,"SIDING<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1520,4067271,null,"SIDING",null,word,,, 'SIDING',
+html-keyboard-response,1521,4067781,null,"LITTER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1522,4069291,null,"LITTER",null,word,,, 'LITTER',
+html-keyboard-response,1523,4069801,null,"HIGHWAY<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1524,4071311,null,"HIGHWAY",null,word,,, 'HIGHWAY',
+html-keyboard-response,1525,4071821,null,"SERPENT<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1526,4073331,null,"SERPENT",null,word,,, 'SERPENT',
+html-keyboard-response,1527,4073841,null,"MONGOOSE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1528,4075351,null,"MONGOOSE",null,word,,, 'MONGOOSE',
+html-keyboard-response,1529,4075861,null,"WINGS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1530,4077371,null,"WINGS",null,word,,, 'WINGS',
+html-keyboard-response,1531,4077881,null,"GUARD<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1532,4079391,null,"GUARD",null,word,,, 'GUARD',
+html-keyboard-response,1533,4079900,null,"NAPKIN<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1534,4081411,null,"NAPKIN",null,word,,, 'NAPKIN',
+html-keyboard-response,1535,4081921,null,"PADDLE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1536,4083431,null,"PADDLE",null,word,,, 'PADDLE',
+html-keyboard-response,1537,4083941,null,"PLUMBER<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1538,4085451,null,"PLUMBER",null,word,,, 'PLUMBER',
+html-keyboard-response,1539,4085961,null,"CLIPPERS<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1540,4087471,null,"CLIPPERS",null,word,,, 'CLIPPERS',
+html-keyboard-response,1541,4087991,null,"WINDSHIELD<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1542,4089501,null,"WINDSHIELD",null,word,,, 'WINDSHIELD',
+html-keyboard-response,1543,4090008,null,"GARAGE<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1544,4091516,null,"GARAGE",null,word,,, 'GARAGE',
+html-keyboard-response,1545,4092026,null,"CREEK<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1546,4093535,null,"CREEK",null,word,,, 'CREEK',
+html-keyboard-response,1547,4093582,44.70000008586794,"HOUSE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",32,word_square,0,SPACEBAR,,
+html-keyboard-response,1548,4095085,null,"HOUSE",null,word,,, 'HOUSE',
+html-keyboard-response,1549,4095595,null,"SHERIFF<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1550,4097105,null,"SHERIFF",null,word,,, 'SHERIFF',
+html-keyboard-response,1551,4097615,null,"SOFA<img id = ""stim"" ><div class = red_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = red_square  id = ""bottomsquare"" ></div>",null,word_square,1,SPACEBAR,,
+html-keyboard-response,1552,4099125,null,"SOFA",null,word,,, 'SOFA',
+html-keyboard-response,1553,4099635,null,"LOUNGE<img id = ""stim"" ><div class = green_square id = ""topsquare"" ></div><img id = ""stim"" ><div class = green_square  id = ""bottomsquare"" ></div>",null,word_square,0,SPACEBAR,,
+html-keyboard-response,1554,4101145,null,"LOUNGE",null,word,,, 'LOUNGE',
+survey-text,1555,4103492,2342.7300000330433,"",,,,,,{"Q0":"1"}
+survey-text,1556,4104446,947.8400000371039,"",,,,,,{"Q0":"3"}
+survey-text,1557,4105685,1233.0800000345334,"",,,,,,{"Q0":"5"}
+survey-text,1558,4107308,1618.2499999413267,"",,,,,,{"Q0":"1"}
+survey-text,1559,4109416,2102.4400000460446,"",,,,,,{"Q0":"4"}
+survey-text,1560,4111794,2372.539999894798,"",,,,,,{"Q0":"3"}
+survey-text,1561,4114651,2852.405000012368,"",,,,,,{"Q0":"3"}
+survey-text,1562,4117066,2410.4900000384077,"",,,,,,{"Q0":"2"}
+survey-text,1563,4118075,1003.9500000420958,"",,,,,,{"Q0":"2"}
+survey-text,1564,4119334,1254.6200000215322,"",,,,,,{"Q0":"4"}
+survey-text,1565,4120376,1035.9850000822917,"",,,,,,{"Q0":"3"}
+survey-text,1566,4121613,1233.174999943003,"",,,,,,{"Q0":"4"}
+survey-text,1567,4122610,991.9699999736622,"",,,,,,{"Q0":"5"}
+survey-text,1568,4123699,1082.9450000310317,"",,,,,,{"Q0":"3"}
+survey-text,1569,4124670,967.1699999598786,"",,,,,,{"Q0":"3"}
+survey-text,1570,4125438,763.660000055097,"",,,,,,{"Q0":"3"}
+survey-text,1571,4131897,6453.334999969229,"",,,,,,{"Q0":"siding "}
+survey-text,1572,4135727,3825.2749999519438,"",,,,,,{"Q0":"highway"}
+survey-text,1573,4144545,8812.20500008203,"",,,,,,{"Q0":"mongoose"}
+survey-text,1574,4147845,3294.7799999965355,"",,,,,,{"Q0":"serpents "}
+survey-text,1575,4157306,9459.625000017695,"",,,,,,{"Q0":"guard"}
+survey-text,1576,4161339,4028.3950000302866,"",,,,,,{"Q0":"plumber"}
+survey-text,1577,4172390,11045.8599999547,"",,,,,,{"Q0":"litter"}
+survey-text,1578,4180329,7932.3350000195205,"",,,,,,{"Q0":"house "}
+survey-text,1579,4182344,2007.9250000417233,"",,,,,,{"Q0":"sheriff "}
+survey-text,1580,4184887,2536.900000064634,"",,,,,,{"Q0":"sofa"}
+survey-text,1581,4186283,1387.2049999190494,"",,,,,,{"Q0":"lounge"}
+survey-text,1582,4221342,35049.86500006635,"",,,,,,{"Q0":"build"}
+survey-text,1583,4229519,8171.4549999451265,"",,,,,,{"Q0":"hawk"}
+survey-text,1584,4230265,741.6449999436736,"",,,,,,{"Q0":"frog"}
+survey-text,1585,4231922,1651.1599998921156,"",,,,,,{"Q0":"princess"}
+survey-text,1586,4233015,1086.7650000145659,"",,,,,,{"Q0":"palace"}
+survey-text,1587,4234060,1040.2900000335649,"",,,,,,{"Q0":"prince"}
+survey-text,1588,4238018,3952.3400000762194,"",,,,,,{"Q0":"plum"}
+survey-text,1589,4241943,3920.9849999751896,"",,,,,,{"Q0":"victor"}
+survey-text,1590,4243798,1848.435000050813,"",,,,,,{"Q0":"builder"}
+survey-text,1591,4245616,1812.6450000563636,"",,,,,,{"Q0":"bracelet"}
+survey-text,1592,4247316,1693.859999999404,"",,,,,,{"Q0":"mountain"}
+survey-text,1593,4248441,1118.8200000906363,"",,,,,,{"Q0":"cliff"}
+survey-text,1594,4253052,4606.265000067651,"",,,,,,{"Q0":"boxer"}
+survey-text,1595,4256442,3383.9299998944625,"",,,,,,{"Q0":"village "}
+survey-text,1596,4261283,4835.955000016838,"",,,,,,{"Q0":"baker"}
+survey-text,1597,4262852,1564.5299999741837,"",,,,,,{"Q0":"spices"}
+survey-text,1598,4264205,1347.4449999630451,"",,,,,,{"Q0":"sugar"}
+survey-text,1599,4265069,858.185000019148,"",,,,,,{"Q0":"dog"}
+survey-text,1600,4266725,1650.1749999588355,"",,,,,,{"Q0":"kitten"}
+survey-text,1601,4269658,2927.29500005953,"",,,,,,{"Q0":"serpent"}
+survey-text,1602,4271009,1345.6400000723079,"",,,,,,{"Q0":"mongoose"}
+survey-text,1603,4274074,3058.5399999981746,"",,,,,,{"Q0":"squid"}
+survey-text,1604,4277442,3362.81500000041,"",,,,,,{"Q0":"wasp"}
+survey-text,1605,4278401,953.1800000695512,"",,,,,,{"Q0":"bride"}
+survey-text,1606,4281302,2895.340000046417,"",,,,,,{"Q0":"dwarf"}
+survey-text,1607,4284050,2742.0299999648705,"",,,,,,{"Q0":"teacher"}
+survey-text,1608,4284958,901.2149999616668,"",,,,,,{"Q0":"hammer"}
+survey-text,1609,4286164,1199.8100000200793,"",,,,,,{"Q0":"sickle"}
+survey-text,1610,4288050,1880.5399999255314,"",,,,,,{"Q0":"airport"}
+survey-text,1611,4291057,3001.924999989569,"",,,,,,{"Q0":"airplane"}
+survey-text,1612,4293166,2104.0300000458956,"",,,,,,{"Q0":"aircraft"}
+survey-text,1613,4294944,1772.9750000871718,"",,,,,,{"Q0":"circuse"}
+survey-text,1614,4297062,2113.094999920577,"",,,,,,{"Q0":"survey"}
+survey-text,1615,4299137,2070.4400000395253,"",,,,,,{"Q0":"haystack"}
+survey-text,1616,4300446,1304.1700000176206,"",,,,,,{"Q0":"needle"}
+survey-text,1617,4303106,2655.3550000535324,"",,,,,,{"Q0":"sweater"}
+survey-text,1618,4306333,3222.855000058189,"",,,,,,{"Q0":"sculpture "}
+survey-text,1619,4307526,1187.874999945052,"",,,,,,{"Q0":"plaster"}
+survey-text,1620,4312298,4766.8099999427795,"",,,,,,{"Q0":"bandage"}
+survey-text,1621,4318147,5843.530000071041,"",,,,,,{"Q0":"mother"}
+survey-text,1622,4319368,1216.4249999914318,"",,,,,,{"Q0":"wold"}
+survey-text,1623,4320744,1371.0499999579042,"",,,,,,{"Q0":"wolf"}
+survey-text,1624,4328961,8210.82999999635,"",,,,,,{"Q0":"plumber "}
+survey-text,1625,4332910,3943.8400000799447,"",,,,,,{"Q0":"tweezers"}
+survey-text,1626,4336848,3936.0299999825656,"",,,,,,{"Q0":"shack"}
+survey-text,1627,4337934,1079.4199999654666,"",,,,,,{"Q0":"meadow"}
+survey-text,1628,4340478,2539.7150000790134,"",,,,,,{"Q0":"stream"}
+survey-text,1629,4341551,1066.8750000186265,"",,,,,,{"Q0":"bulter"}
+survey-text,1630,4343733,2175.6700000260025,"",,,,,,{"Q0":"robin"}
+survey-text,1631,4345865,2126.670000026934,"",,,,,,{"Q0":"forest"}
+survey-text,1632,4349009,3138.0750000244007,"",,,,,,{"Q0":"blockade "}
+survey-text,1633,4350736,1723.1950000859797,"",,,,,,{"Q0":"jeep"}
+survey-text,1634,4351984,1242.024999926798,"",,,,,,{"Q0":"pavement"}
+survey-text,1635,4355981,3992.445000098087,"",,,,,,{"Q0":"boulder"}
+survey-text,1636,4361953,5962.910000002012,"",,,,,,{"Q0":"razor"}
+survey-text,1637,4368410,6449.2450000252575,"",,,,,,{"Q0":"hamper"}
+survey-text,1638,4371529,3113.5899999644607,"",,,,,,{"Q0":"washer"}
+survey-text,1639,4378981,7446.974999969825,"",,,,,,{"Q0":"guitar"}
+survey-text,1640,4391329,12341.5049999021,"",,,,,,{"Q0":"mermaid"}
+survey-text,1641,4393872,2538.4249999187887,"",,,,,,{"Q0":"sardine"}
+survey-text,1642,4395287,1408.8299999712035,"",,,,,,{"Q0":"subway"}
+survey-text,1643,4397162,1874.7999999905005,"",,,,,,{"Q0":"pizza"}
+survey-text,1644,4403203,6035.730000003241,"",,,,,,{"Q0":"cougar"}
